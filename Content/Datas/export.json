@@ -1,0 +1,3223 @@
+{
+  "rooms": [
+    {
+      "id": "508e3cbb-2259-4f6f-b864-93ac046302fc",
+      "type": "other",
+      "width": 1920,
+      "height": 1080,
+      "wallIds": [12, 13, 47, 48, 49],
+      "wallTileUrl": "",
+      "outline": [
+        {
+          "start": { "x": 2.834, "y": 3.428 },
+          "end": { "x": 2.834, "y": 2.067 }
+        },
+        {
+          "start": { "x": 2.834, "y": 2.067 },
+          "end": { "x": 3.441, "y": 2.067 }
+        },
+        {
+          "start": { "x": 3.441, "y": 2.067 },
+          "end": { "x": 3.441, "y": 3.428 }
+        },
+        {
+          "start": { "x": 3.441, "y": 3.428 },
+          "end": { "x": 2.834, "y": 3.428 }
+        }
+      ],
+      "floors": [
+        {
+          "elementId": 80,
+          "type": "floor",
+          "positionZ": 0,
+          "imageUrl": "https://collov.cn/cors/ai-train-data2.s3.us-west-2.amazonaws.com%2F3d%2Fimage%2Fbeige_ceramic_tiles.jpg"
+        },
+        { "elementId": 91, "type": "ceiling", "positionZ": 2.7, "imageUrl": "" }
+      ],
+      "camera": {
+        "position": { "x": 3.1375, "y": 2.217, "z": 1.1 },
+        "target": { "x": 3.1375, "y": 3.217, "z": 1.1 },
+        "euler": {
+          "x": 6.123233995736766e-17,
+          "y": -1.6081226496766364e-16,
+          "z": -1.5707963267948966,
+          "order": "ZYX"
+        },
+        "fov": 90,
+        "near": 0.1,
+        "far": 100,
+        "info": {
+          "uuid": "cc623aeb-7fd6-44b9-9213-40bb72457cbb",
+          "type": "PerspectiveCamera",
+          "layers": 1,
+          "matrix": [
+            1, 0, 0, 0, 0, 2.220446049250313e-16, 1, 0, 0, -1,
+            2.220446049250313e-16, 0, 3.1375, 2.217, 1.1, 1
+          ],
+          "up": [0, 0, 1],
+          "fov": 90,
+          "zoom": 1,
+          "near": 0.1,
+          "far": 100,
+          "focus": 10,
+          "aspect": 1.7777777777777777,
+          "filmGauge": 35,
+          "filmOffset": 0
+        }
+      }
+    },
+    {
+      "id": "112ab271-0ac2-477c-9bdd-7a2011037978",
+      "type": "bedroom",
+      "width": 1920,
+      "height": 1080,
+      "wallIds": [11, 13, 32, 33, 36, 40, 41, 48],
+      "wallTileUrl": "",
+      "outline": [
+        {
+          "start": { "x": 3.441, "y": 3.428 },
+          "end": { "x": 3.441, "y": 2.707 }
+        },
+        {
+          "start": { "x": 3.441, "y": 2.707 },
+          "end": { "x": 6.141, "y": 2.707 }
+        },
+        {
+          "start": { "x": 6.141, "y": 2.707 },
+          "end": { "x": 6.141, "y": 5.363 }
+        },
+        {
+          "start": { "x": 6.141, "y": 5.363 },
+          "end": { "x": 2.834, "y": 5.363 }
+        },
+        {
+          "start": { "x": 2.834, "y": 5.363 },
+          "end": { "x": 2.834, "y": 3.428 }
+        },
+        {
+          "start": { "x": 2.834, "y": 3.428 },
+          "end": { "x": 3.441, "y": 3.428 }
+        }
+      ],
+      "floors": [
+        {
+          "elementId": 81,
+          "type": "floor",
+          "positionZ": 0,
+          "imageUrl": "https://collov.cn/cors/ai-train-data2.s3.us-west-2.amazonaws.com%2F3d%2Fimage%2Fwooden_flooring.jpg"
+        },
+        { "elementId": 92, "type": "ceiling", "positionZ": 2.7, "imageUrl": "" }
+      ],
+      "camera": {
+        "position": {
+          "x": 2.9815647204365825,
+          "y": 4.373565430796765,
+          "z": 1.1
+        },
+        "target": { "x": 3.9572119248024062, "y": 4.154219738764411, "z": 1.1 },
+        "euler": {
+          "x": 2.8327694488239893e-16,
+          "y": 5.053215498074303e-16,
+          "z": 2.920448873633032,
+          "order": "ZYX"
+        },
+        "fov": 80.54112342493495,
+        "near": 0.1,
+        "far": 100,
+        "info": {
+          "uuid": "cc623aeb-7fd6-44b9-9213-40bb72457cbb",
+          "type": "PerspectiveCamera",
+          "layers": 1,
+          "matrix": [
+            -0.219345692032354, -0.9756472043658241, 2.220446049250313e-16, 0,
+            -2.220446049250313e-16, 0, 1.0000000000000002, 0,
+            -0.9756472043658241, 0.21934569203235382, -4.440892098500626e-16, 0,
+            2.9815647204365825, 4.373565430796765, 1.1, 1
+          ],
+          "up": [0, 0, 1],
+          "fov": 80.54112342493495,
+          "zoom": 1,
+          "near": 0.1,
+          "far": 100,
+          "focus": 10,
+          "aspect": 1.7777777777777777,
+          "filmGauge": 35,
+          "filmOffset": 0
+        }
+      }
+    },
+    {
+      "id": "6a71c7d1-7e20-40da-a205-04db7a2d10ed",
+      "type": "other",
+      "width": 1920,
+      "height": 1080,
+      "wallIds": [35, 36, 38, 39, 54, 55],
+      "wallTileUrl": "",
+      "outline": [
+        {
+          "start": { "x": 6.141, "y": 2.707 },
+          "end": { "x": 8.84, "y": 2.707 }
+        },
+        {
+          "start": { "x": 8.84, "y": 2.707 },
+          "end": { "x": 8.84, "y": 5.264 }
+        },
+        {
+          "start": { "x": 8.84, "y": 5.264 },
+          "end": { "x": 7.296, "y": 5.264 }
+        },
+        {
+          "start": { "x": 7.296, "y": 5.264 },
+          "end": { "x": 7.296, "y": 4.294 }
+        },
+        {
+          "start": { "x": 7.296, "y": 4.294 },
+          "end": { "x": 6.141, "y": 4.294 }
+        },
+        {
+          "start": { "x": 6.141, "y": 4.294 },
+          "end": { "x": 6.141, "y": 2.707 }
+        }
+      ],
+      "floors": [
+        {
+          "elementId": 82,
+          "type": "floor",
+          "positionZ": 0,
+          "imageUrl": "https://collov.cn/cors/ai-train-data2.s3.us-west-2.amazonaws.com%2F3d%2Fimage%2Fbeige_ceramic_tiles.jpg"
+        },
+        { "elementId": 93, "type": "ceiling", "positionZ": 2.7, "imageUrl": "" }
+      ],
+      "camera": {
+        "position": {
+          "x": 6.284687615718746,
+          "y": 3.5354661359165767,
+          "z": 1.1
+        },
+        "target": { "x": 7.221563772906208, "y": 3.885127495082348, "z": 1.1 },
+        "euler": {
+          "x": -4.9789962505147994e-17,
+          "y": 6.123233995736766e-17,
+          "z": -2.7843830317516414,
+          "order": "ZYX"
+        },
+        "fov": 90,
+        "near": 0.1,
+        "far": 100,
+        "info": {
+          "uuid": "cc623aeb-7fd6-44b9-9213-40bb72457cbb",
+          "type": "PerspectiveCamera",
+          "layers": 1,
+          "matrix": [
+            0.3496613591657711, -0.9368761571874619, -1.1102230246251565e-16, 0,
+            1.1102230246251565e-16, -2.220446049250313e-16, 1, 0,
+            -0.9368761571874619, -0.34966135916577123, 0, 0, 6.284687615718746,
+            3.5354661359165767, 1.1, 1
+          ],
+          "up": [0, 0, 1],
+          "fov": 90,
+          "zoom": 1,
+          "near": 0.1,
+          "far": 100,
+          "focus": 10,
+          "aspect": 1.7777777777777777,
+          "filmGauge": 35,
+          "filmOffset": 0
+        }
+      }
+    },
+    {
+      "id": "07dbb914-8397-4faa-9919-4079389d3e62",
+      "type": "open_living_dining",
+      "width": 1920,
+      "height": 1080,
+      "wallIds": [14, 16, 18, 21, 27, 29, 39, 40, 41, 42, 43, 46, 54, 55, 59],
+      "wallTileUrl": "",
+      "outline": [
+        {
+          "start": { "x": 8.801, "y": 9.082 },
+          "end": { "x": 8.801, "y": 9.938 }
+        },
+        {
+          "start": { "x": 8.801, "y": 9.938 },
+          "end": { "x": 7.188, "y": 9.938 }
+        },
+        {
+          "start": { "x": 7.188, "y": 9.938 },
+          "end": { "x": 7.188, "y": 8.753 }
+        },
+        {
+          "start": { "x": 7.188, "y": 8.753 },
+          "end": { "x": 3.46, "y": 8.753 }
+        },
+        {
+          "start": { "x": 3.46, "y": 8.753 },
+          "end": { "x": 3.46, "y": 5.363 }
+        },
+        {
+          "start": { "x": 3.46, "y": 5.363 },
+          "end": { "x": 6.141, "y": 5.363 }
+        },
+        {
+          "start": { "x": 6.141, "y": 5.363 },
+          "end": { "x": 6.141, "y": 4.294 }
+        },
+        {
+          "start": { "x": 6.141, "y": 4.294 },
+          "end": { "x": 7.296, "y": 4.294 }
+        },
+        {
+          "start": { "x": 7.296, "y": 4.294 },
+          "end": { "x": 7.296, "y": 5.264 }
+        },
+        {
+          "start": { "x": 7.296, "y": 5.264 },
+          "end": { "x": 8.84, "y": 5.264 }
+        },
+        {
+          "start": { "x": 8.84, "y": 5.264 },
+          "end": { "x": 8.84, "y": 7.386 }
+        },
+        {
+          "start": { "x": 8.84, "y": 7.386 },
+          "end": { "x": 11.084, "y": 7.386 }
+        },
+        {
+          "start": { "x": 11.084, "y": 7.386 },
+          "end": { "x": 11.084, "y": 9.082 }
+        },
+        {
+          "start": { "x": 11.084, "y": 9.082 },
+          "end": { "x": 8.801, "y": 9.082 }
+        }
+      ],
+      "floors": [
+        {
+          "elementId": 83,
+          "type": "floor",
+          "positionZ": 0,
+          "imageUrl": "https://collov.cn/cors/ai-train-data2.s3.us-west-2.amazonaws.com%2F3d%2Fimage%2Fbeige_ceramic_tiles.jpg"
+        },
+        { "elementId": 94, "type": "ceiling", "positionZ": 2.7, "imageUrl": "" }
+      ],
+      "camera": {
+        "position": {
+          "x": 10.938143355160802,
+          "y": 8.205513097041408,
+          "z": 1.1
+        },
+        "target": { "x": 9.979576906768841, "y": 7.920644067455492, "z": 1.1 },
+        "euler": {
+          "x": 6.123233995736766e-17,
+          "y": 6.123233995736766e-17,
+          "z": 0.2888697938548136,
+          "order": "ZYX"
+        },
+        "fov": 38.41893314833334,
+        "near": 0.1,
+        "far": 100,
+        "info": {
+          "uuid": "cc623aeb-7fd6-44b9-9213-40bb72457cbb",
+          "type": "PerspectiveCamera",
+          "layers": 1,
+          "matrix": [
+            -0.28486902958591553, 0.9585664483919614, 0, 0, 0, 0, 1, 0,
+            0.9585664483919614, 0.28486902958591553, 0, 0, 10.938143355160802,
+            8.205513097041408, 1.1, 1
+          ],
+          "up": [0, 0, 1],
+          "fov": 38.41893314833334,
+          "zoom": 1,
+          "near": 0.1,
+          "far": 100,
+          "focus": 10,
+          "aspect": 1.7777777777777777,
+          "filmGauge": 35,
+          "filmOffset": 0
+        }
+      }
+    },
+    {
+      "id": "59b23f7e-265d-426e-92ec-6dfd7dbfd884",
+      "type": "kitchen",
+      "width": 1024,
+      "height": 1024,
+      "wallIds": [43, 44, 56, 57, 58, 59],
+      "wallTileUrl": "https://collov.cn/cors/ai-train-data2.s3.us-west-2.amazonaws.com%2F3d%2Fimage%2Fmarble1.jpg",
+      "outline": [
+        {
+          "start": { "x": 10.445, "y": 6.889 },
+          "end": { "x": 10.445, "y": 7.386 }
+        },
+        {
+          "start": { "x": 10.445, "y": 7.386 },
+          "end": { "x": 8.84, "y": 7.386 }
+        },
+        {
+          "start": { "x": 8.84, "y": 7.386 },
+          "end": { "x": 8.84, "y": 5.264 }
+        },
+        {
+          "start": { "x": 8.84, "y": 5.264 },
+          "end": { "x": 11.084, "y": 5.264 }
+        },
+        {
+          "start": { "x": 11.084, "y": 5.264 },
+          "end": { "x": 11.084, "y": 6.889 }
+        },
+        {
+          "start": { "x": 11.084, "y": 6.889 },
+          "end": { "x": 10.445, "y": 6.889 }
+        }
+      ],
+      "floors": [
+        {
+          "elementId": 84,
+          "type": "floor",
+          "positionZ": 0,
+          "imageUrl": "https://collov.cn/cors/ai-train-data2.s3.us-west-2.amazonaws.com%2F3d%2Fimage%2Fbeige_ceramic_tiles.jpg"
+        },
+        { "elementId": 95, "type": "ceiling", "positionZ": 2.7, "imageUrl": "" }
+      ],
+      "camera": {
+        "position": {
+          "x": 9.688547556866535,
+          "y": 7.289789821029115,
+          "z": 1.1
+        },
+        "target": { "x": 9.961238125531878, "y": 6.327688031320265, "z": 1.1 },
+        "euler": {
+          "x": 6.123233995736766e-17,
+          "y": -4.9789962505147994e-17,
+          "z": 1.8469848074783493,
+          "order": "ZYX"
+        },
+        "fov": 90,
+        "near": 0.1,
+        "far": 100,
+        "info": {
+          "uuid": "cc623aeb-7fd6-44b9-9213-40bb72457cbb",
+          "type": "PerspectiveCamera",
+          "layers": 1,
+          "matrix": [
+            -0.96210178970885, -0.2726905686653431, 0, 0, 5.551115123125783e-17,
+            -2.220446049250313e-16, 1, 0, -0.2726905686653431,
+            0.9621017897088499, 1.1102230246251565e-16, 0, 9.688547556866535,
+            7.289789821029115, 1.1, 1
+          ],
+          "up": [0, 0, 1],
+          "fov": 90,
+          "zoom": 1,
+          "near": 0.1,
+          "far": 100,
+          "focus": 10,
+          "aspect": 1,
+          "filmGauge": 35,
+          "filmOffset": 0
+        }
+      },
+      "suspendedCeiling": {
+        "url": "https://collov.cn/cors/ai-train-data2.s3.us-west-2.amazonaws.com%2F3d%2Fimage%2Flamp.jpg",
+        "bottom": 2.4000000000000004,
+        "height": 0.3,
+        "center": { "x": 9.962, "y": 6.325 },
+        "size": { "x": 0.6, "y": 0.3 }
+      }
+    },
+    {
+      "id": "943f77b2-2070-4393-863e-73240c346e50",
+      "type": "other",
+      "width": 1920,
+      "height": 1080,
+      "wallIds": [42, 44, 45, 57],
+      "wallTileUrl": "",
+      "outline": [
+        {
+          "start": { "x": 11.084, "y": 6.889 },
+          "end": { "x": 11.084, "y": 7.386 }
+        },
+        {
+          "start": { "x": 11.084, "y": 7.386 },
+          "end": { "x": 10.445, "y": 7.386 }
+        },
+        {
+          "start": { "x": 10.445, "y": 7.386 },
+          "end": { "x": 10.445, "y": 6.889 }
+        },
+        {
+          "start": { "x": 10.445, "y": 6.889 },
+          "end": { "x": 11.084, "y": 6.889 }
+        }
+      ],
+      "floors": [
+        {
+          "elementId": 85,
+          "type": "floor",
+          "positionZ": 0,
+          "imageUrl": "https://collov.cn/cors/ai-train-data2.s3.us-west-2.amazonaws.com%2F3d%2Fimage%2Fbeige_ceramic_tiles.jpg"
+        },
+        { "elementId": 96, "type": "ceiling", "positionZ": 2.7, "imageUrl": "" }
+      ],
+      "camera": {
+        "position": { "x": 10.934, "y": 7.1375, "z": 1.1 },
+        "target": { "x": 9.934, "y": 7.1375, "z": 1.1 },
+        "euler": {
+          "x": 6.123233995736766e-17,
+          "y": 6.123233995736766e-17,
+          "z": 3.749399456654644e-33,
+          "order": "ZYX"
+        },
+        "fov": 90,
+        "near": 0.1,
+        "far": 100,
+        "info": {
+          "uuid": "cc623aeb-7fd6-44b9-9213-40bb72457cbb",
+          "type": "PerspectiveCamera",
+          "layers": 1,
+          "matrix": [
+            0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 10.934, 7.1375, 1.1, 1
+          ],
+          "up": [0, 0, 1],
+          "fov": 90,
+          "zoom": 1,
+          "near": 0.1,
+          "far": 100,
+          "focus": 10,
+          "aspect": 1.7777777777777777,
+          "filmGauge": 35,
+          "filmOffset": 0
+        }
+      }
+    },
+    {
+      "id": "044d4e0d-7360-4a9e-9227-8ababb6d9e49",
+      "type": "bedroom",
+      "width": 1920,
+      "height": 1080,
+      "wallIds": [20, 21, 23, 28, 29, 52],
+      "wallTileUrl": "",
+      "outline": [
+        {
+          "start": { "x": 3.46, "y": 11.871 },
+          "end": { "x": 3.46, "y": 8.753 }
+        },
+        {
+          "start": { "x": 3.46, "y": 8.753 },
+          "end": { "x": 7.188, "y": 8.753 }
+        },
+        {
+          "start": { "x": 7.188, "y": 8.753 },
+          "end": { "x": 7.188, "y": 11.871 }
+        },
+        {
+          "start": { "x": 7.188, "y": 11.871 },
+          "end": { "x": 3.46, "y": 11.871 }
+        }
+      ],
+      "floors": [
+        {
+          "elementId": 86,
+          "type": "floor",
+          "positionZ": 0,
+          "imageUrl": "https://collov.cn/cors/ai-train-data2.s3.us-west-2.amazonaws.com%2F3d%2Fimage%2Fwooden_flooring.jpg"
+        },
+        { "elementId": 97, "type": "ceiling", "positionZ": 2.7, "imageUrl": "" }
+      ],
+      "camera": {
+        "position": { "x": 5.324, "y": 8.903, "z": 1.1 },
+        "target": { "x": 5.324, "y": 9.903, "z": 1.1 },
+        "euler": {
+          "x": 6.123233995736766e-17,
+          "y": -1.6081226496766364e-16,
+          "z": -1.5707963267948966,
+          "order": "ZYX"
+        },
+        "fov": 85.55563671771507,
+        "near": 0.1,
+        "far": 100,
+        "info": {
+          "uuid": "cc623aeb-7fd6-44b9-9213-40bb72457cbb",
+          "type": "PerspectiveCamera",
+          "layers": 1,
+          "matrix": [
+            1, 0, 0, 0, 0, 2.220446049250313e-16, 1, 0, 0, -1,
+            2.220446049250313e-16, 0, 5.324, 8.903, 1.1, 1
+          ],
+          "up": [0, 0, 1],
+          "fov": 85.55563671771507,
+          "zoom": 1,
+          "near": 0.1,
+          "far": 100,
+          "focus": 10,
+          "aspect": 1.7777777777777777,
+          "filmGauge": 35,
+          "filmOffset": 0
+        }
+      }
+    },
+    {
+      "id": "7ce46582-303e-4666-8c5a-d2e2ae2883ab",
+      "type": "balcony",
+      "width": 1024,
+      "height": 1024,
+      "wallIds": [26, 28, 30, 53],
+      "wallTileUrl": "",
+      "outline": [
+        {
+          "start": { "x": 1.692, "y": 8.753 },
+          "end": { "x": 3.46, "y": 8.753 }
+        },
+        {
+          "start": { "x": 3.46, "y": 8.753 },
+          "end": { "x": 3.46, "y": 9.294 }
+        },
+        {
+          "start": { "x": 3.46, "y": 9.294 },
+          "end": { "x": 1.692, "y": 9.294 }
+        },
+        {
+          "start": { "x": 1.692, "y": 9.294 },
+          "end": { "x": 1.692, "y": 8.753 }
+        }
+      ],
+      "floors": [
+        {
+          "elementId": 87,
+          "type": "floor",
+          "positionZ": 0,
+          "imageUrl": "https://collov.cn/cors/ai-train-data2.s3.us-west-2.amazonaws.com%2F3d%2Fimage%2Fbeige_ceramic_tiles.jpg"
+        },
+        { "elementId": 98, "type": "ceiling", "positionZ": 2.7, "imageUrl": "" }
+      ],
+      "camera": {
+        "position": { "x": 1.842, "y": 9.0235, "z": 1.1 },
+        "target": { "x": 2.842, "y": 9.0235, "z": 1.1 },
+        "euler": {
+          "x": 6.123233995736766e-17,
+          "y": 6.123233995736766e-17,
+          "z": -3.141592653589793,
+          "order": "ZYX"
+        },
+        "fov": 90,
+        "near": 0.1,
+        "far": 100,
+        "info": {
+          "uuid": "cc623aeb-7fd6-44b9-9213-40bb72457cbb",
+          "type": "PerspectiveCamera",
+          "layers": 1,
+          "matrix": [
+            0, -1, 0, 0, 0, 0, 1, 0, -1, 0, 0, 0, 1.842, 9.0235, 1.1, 1
+          ],
+          "up": [0, 0, 1],
+          "fov": 90,
+          "zoom": 1,
+          "near": 0.1,
+          "far": 100,
+          "focus": 10,
+          "aspect": 1,
+          "filmGauge": 35,
+          "filmOffset": 0
+        }
+      }
+    },
+    {
+      "id": "cb0d2a70-68a1-4e6e-af4d-1952e019b8e9",
+      "type": "balcony",
+      "width": 1024,
+      "height": 1024,
+      "wallIds": [26, 27, 31, 32, 34],
+      "wallTileUrl": "",
+      "outline": [
+        {
+          "start": { "x": 1.692, "y": 5.363 },
+          "end": { "x": 3.46, "y": 5.363 }
+        },
+        {
+          "start": { "x": 3.46, "y": 5.363 },
+          "end": { "x": 3.46, "y": 8.753 }
+        },
+        {
+          "start": { "x": 3.46, "y": 8.753 },
+          "end": { "x": 1.692, "y": 8.753 }
+        },
+        {
+          "start": { "x": 1.692, "y": 8.753 },
+          "end": { "x": 1.692, "y": 5.363 }
+        }
+      ],
+      "floors": [
+        {
+          "elementId": 88,
+          "type": "floor",
+          "positionZ": 0,
+          "imageUrl": "https://collov.cn/cors/ai-train-data2.s3.us-west-2.amazonaws.com%2F3d%2Fimage%2Fbeige_ceramic_tiles.jpg"
+        },
+        { "elementId": 99, "type": "ceiling", "positionZ": 2.7, "imageUrl": "" }
+      ],
+      "camera": {
+        "position": { "x": 2.576, "y": 5.513, "z": 1.1 },
+        "target": { "x": 2.576, "y": 6.513, "z": 1.1 },
+        "euler": {
+          "x": 6.123233995736766e-17,
+          "y": -1.6081226496766364e-16,
+          "z": -1.5707963267948966,
+          "order": "ZYX"
+        },
+        "fov": 80.48881772270279,
+        "near": 0.1,
+        "far": 100,
+        "info": {
+          "uuid": "cc623aeb-7fd6-44b9-9213-40bb72457cbb",
+          "type": "PerspectiveCamera",
+          "layers": 1,
+          "matrix": [
+            1, 0, 0, 0, 0, 2.220446049250313e-16, 1, 0, 0, -1,
+            2.220446049250313e-16, 0, 2.576, 5.513, 1.1, 1
+          ],
+          "up": [0, 0, 1],
+          "fov": 80.48881772270279,
+          "zoom": 1,
+          "near": 0.1,
+          "far": 100,
+          "focus": 10,
+          "aspect": 1,
+          "filmGauge": 35,
+          "filmOffset": 0
+        }
+      }
+    },
+    {
+      "id": "66d10486-dd20-4cf4-9a4f-f2f4e19e662e",
+      "type": "bathroom",
+      "width": 1024,
+      "height": 1024,
+      "wallIds": [18, 19, 20, 22, 25, 51],
+      "wallTileUrl": "https://collov.cn/cors/ai-train-data2.s3.us-west-2.amazonaws.com%2F3d%2Fimage%2Fceramic_tile1.jpg",
+      "outline": [
+        {
+          "start": { "x": 8.385, "y": 10.998 },
+          "end": { "x": 8.385, "y": 11.871 }
+        },
+        {
+          "start": { "x": 8.385, "y": 11.871 },
+          "end": { "x": 7.188, "y": 11.871 }
+        },
+        {
+          "start": { "x": 7.188, "y": 11.871 },
+          "end": { "x": 7.188, "y": 9.938 }
+        },
+        {
+          "start": { "x": 7.188, "y": 9.938 },
+          "end": { "x": 8.801, "y": 9.938 }
+        },
+        {
+          "start": { "x": 8.801, "y": 9.938 },
+          "end": { "x": 8.801, "y": 10.998 }
+        },
+        {
+          "start": { "x": 8.801, "y": 10.998 },
+          "end": { "x": 8.385, "y": 10.998 }
+        }
+      ],
+      "floors": [
+        {
+          "elementId": 89,
+          "type": "floor",
+          "positionZ": 0,
+          "imageUrl": "https://collov.cn/cors/ai-train-data2.s3.us-west-2.amazonaws.com%2F3d%2Fimage%2Fhexagon_ceramic_tiles.jpg"
+        },
+        {
+          "elementId": 100,
+          "type": "ceiling",
+          "positionZ": 2.7,
+          "imageUrl": ""
+        }
+      ],
+      "camera": {
+        "position": {
+          "x": 7.808632215607821,
+          "y": 11.723479924978038,
+          "z": 1.1
+        },
+        "target": { "x": 8.029954371686031, "y": 10.748279174758427, "z": 1.1 },
+        "euler": {
+          "x": 8.898791557299657e-17,
+          "y": 2.83276944882399e-16,
+          "z": 1.7939663675527366,
+          "order": "ZYX"
+        },
+        "fov": 90,
+        "near": 0.1,
+        "far": 100,
+        "info": {
+          "uuid": "cc623aeb-7fd6-44b9-9213-40bb72457cbb",
+          "type": "PerspectiveCamera",
+          "layers": 1,
+          "matrix": [
+            -0.9752007502196114, -0.22132215607821049, 2.7755575615628914e-17,
+            0, -2.7755575615628914e-17, 1.1102230246251565e-16, 1, 0,
+            -0.22132215607821049, 0.9752007502196112, -2.220446049250313e-16, 0,
+            7.808632215607821, 11.723479924978038, 1.1, 1
+          ],
+          "up": [0, 0, 1],
+          "fov": 90,
+          "zoom": 1,
+          "near": 0.1,
+          "far": 100,
+          "focus": 10,
+          "aspect": 1,
+          "filmGauge": 35,
+          "filmOffset": 0
+        }
+      },
+      "suspendedCeiling": {
+        "url": "https://collov.cn/cors/ai-train-data2.s3.us-west-2.amazonaws.com%2F3d%2Fimage%2Fwarm_breeze.jpg",
+        "bottom": 2.4000000000000004,
+        "height": 0.3,
+        "center": { "x": 7.9945, "y": 10.9045 },
+        "size": { "x": 0.352, "y": 0.7 }
+      }
+    },
+    {
+      "id": "010bac0b-145e-4380-9a71-ba09396886e1",
+      "type": "bathroom",
+      "width": 1024,
+      "height": 1024,
+      "wallIds": [24, 25, 50, 51],
+      "wallTileUrl": "https://collov.cn/cors/ai-train-data2.s3.us-west-2.amazonaws.com%2F3d%2Fimage%2Fceramic_tile1.jpg",
+      "outline": [
+        {
+          "start": { "x": 8.385, "y": 11.871 },
+          "end": { "x": 8.385, "y": 10.998 }
+        },
+        {
+          "start": { "x": 8.385, "y": 10.998 },
+          "end": { "x": 8.801, "y": 10.998 }
+        },
+        {
+          "start": { "x": 8.801, "y": 10.998 },
+          "end": { "x": 8.801, "y": 11.871 }
+        },
+        {
+          "start": { "x": 8.801, "y": 11.871 },
+          "end": { "x": 8.385, "y": 11.871 }
+        }
+      ],
+      "floors": [
+        {
+          "elementId": 90,
+          "type": "floor",
+          "positionZ": 0,
+          "imageUrl": "https://collov.cn/cors/ai-train-data2.s3.us-west-2.amazonaws.com%2F3d%2Fimage%2Fhexagon_ceramic_tiles.jpg"
+        },
+        {
+          "elementId": 101,
+          "type": "ceiling",
+          "positionZ": 2.7,
+          "imageUrl": ""
+        }
+      ],
+      "camera": {
+        "position": { "x": 8.535, "y": 11.4345, "z": 1.1 },
+        "target": { "x": 9.535, "y": 11.4345, "z": 1.1 },
+        "euler": {
+          "x": 6.123233995736766e-17,
+          "y": 6.123233995736766e-17,
+          "z": -3.141592653589793,
+          "order": "ZYX"
+        },
+        "fov": 90,
+        "near": 0.1,
+        "far": 100,
+        "info": {
+          "uuid": "cc623aeb-7fd6-44b9-9213-40bb72457cbb",
+          "type": "PerspectiveCamera",
+          "layers": 1,
+          "matrix": [
+            0, -1, 0, 0, 0, 0, 1, 0, -1, 0, 0, 0, 8.535, 11.4345, 1.1, 1
+          ],
+          "up": [0, 0, 1],
+          "fov": 90,
+          "zoom": 1,
+          "near": 0.1,
+          "far": 100,
+          "focus": 10,
+          "aspect": 1,
+          "filmGauge": 35,
+          "filmOffset": 0
+        }
+      },
+      "suspendedCeiling": {
+        "url": "https://collov.cn/cors/ai-train-data2.s3.us-west-2.amazonaws.com%2F3d%2Fimage%2Fwarm_breeze.jpg",
+        "bottom": 2.4000000000000004,
+        "height": 0.3,
+        "center": { "x": 8.593, "y": 11.4345 },
+        "size": { "x": 0.352, "y": 0.7 }
+      }
+    }
+  ],
+  "walls": [
+    {
+      "elementId": 11,
+      "id": "0",
+      "type": "wall",
+      "start": { "x": 3.441, "y": 2.707 },
+      "end": { "x": 6.141, "y": 2.707 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": ["112ab271-0ac2-477c-9bdd-7a2011037978", "outside"],
+      "holeInfos": []
+    },
+    {
+      "elementId": 12,
+      "id": "1",
+      "type": "wall",
+      "start": { "x": 3.441, "y": 2.707 },
+      "end": { "x": 3.441, "y": 2.067 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": ["outside", "508e3cbb-2259-4f6f-b864-93ac046302fc"],
+      "holeInfos": []
+    },
+    {
+      "elementId": 13,
+      "id": "2",
+      "type": "wall",
+      "start": { "x": 3.441, "y": 2.707 },
+      "end": { "x": 3.441, "y": 3.428 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": [
+        "508e3cbb-2259-4f6f-b864-93ac046302fc",
+        "112ab271-0ac2-477c-9bdd-7a2011037978"
+      ],
+      "holeInfos": []
+    },
+    {
+      "elementId": 14,
+      "id": "3",
+      "type": "wall",
+      "start": { "x": 8.801, "y": 9.082 },
+      "end": { "x": 8.801, "y": 9.938 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62", "outside"],
+      "holeInfos": []
+    },
+    {
+      "elementId": 15,
+      "id": "4",
+      "type": "wall",
+      "start": { "x": 8.801, "y": 9.082 },
+      "end": { "x": 8.801, "y": 8.778 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": ["outside", "outside"],
+      "holeInfos": []
+    },
+    {
+      "elementId": 16,
+      "id": "5",
+      "type": "wall",
+      "start": { "x": 8.801, "y": 9.082 },
+      "end": { "x": 11.084, "y": 9.082 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": ["outside", "07dbb914-8397-4faa-9919-4079389d3e62"],
+      "holeInfos": []
+    },
+    {
+      "elementId": 17,
+      "id": "6",
+      "type": "wall",
+      "start": { "x": 7.983, "y": 8.778 },
+      "end": { "x": 8.801, "y": 8.778 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": ["outside", "outside"],
+      "holeInfos": []
+    },
+    {
+      "elementId": 18,
+      "id": "7",
+      "type": "wall",
+      "start": { "x": 8.801, "y": 9.938 },
+      "end": { "x": 7.188, "y": 9.938 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [134],
+      "roomIds": [
+        "07dbb914-8397-4faa-9919-4079389d3e62",
+        "66d10486-dd20-4cf4-9a4f-f2f4e19e662e"
+      ],
+      "holeInfos": [
+        {
+          "start": { "x": 7.9596592, "y": 9.938 },
+          "end": { "x": 7.3159108999999996, "y": 9.938 },
+          "height": 2.2,
+          "bottom": 0
+        }
+      ]
+    },
+    {
+      "elementId": 19,
+      "id": "8",
+      "type": "wall",
+      "start": { "x": 8.801, "y": 9.938 },
+      "end": { "x": 8.801, "y": 10.998 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": ["66d10486-dd20-4cf4-9a4f-f2f4e19e662e", "outside"],
+      "holeInfos": []
+    },
+    {
+      "elementId": 20,
+      "id": "9",
+      "type": "wall",
+      "start": { "x": 7.188, "y": 9.938 },
+      "end": { "x": 7.188, "y": 11.871 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": [
+        "044d4e0d-7360-4a9e-9227-8ababb6d9e49",
+        "66d10486-dd20-4cf4-9a4f-f2f4e19e662e"
+      ],
+      "holeInfos": []
+    },
+    {
+      "elementId": 21,
+      "id": "10",
+      "type": "wall",
+      "start": { "x": 7.188, "y": 9.938 },
+      "end": { "x": 7.188, "y": 8.753 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [133],
+      "roomIds": [
+        "07dbb914-8397-4faa-9919-4079389d3e62",
+        "044d4e0d-7360-4a9e-9227-8ababb6d9e49"
+      ],
+      "holeInfos": [
+        {
+          "start": { "x": 7.188, "y": 9.697682 },
+          "end": { "x": 7.188, "y": 9.045221 },
+          "height": 2.2,
+          "bottom": 0
+        }
+      ]
+    },
+    {
+      "elementId": 22,
+      "id": "11",
+      "type": "wall",
+      "start": { "x": 7.188, "y": 11.871 },
+      "end": { "x": 8.385, "y": 11.871 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": ["outside", "66d10486-dd20-4cf4-9a4f-f2f4e19e662e"],
+      "holeInfos": []
+    },
+    {
+      "elementId": 23,
+      "id": "12",
+      "type": "wall",
+      "start": { "x": 7.188, "y": 11.871 },
+      "end": { "x": 3.46, "y": 11.871 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": ["044d4e0d-7360-4a9e-9227-8ababb6d9e49", "outside"],
+      "holeInfos": []
+    },
+    {
+      "elementId": 24,
+      "id": "13",
+      "type": "wall",
+      "start": { "x": 8.385, "y": 11.871 },
+      "end": { "x": 8.801, "y": 11.871 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": ["outside", "010bac0b-145e-4380-9a71-ba09396886e1"],
+      "holeInfos": []
+    },
+    {
+      "elementId": 25,
+      "id": "14",
+      "type": "wall",
+      "start": { "x": 8.385, "y": 11.871 },
+      "end": { "x": 8.385, "y": 10.998 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": [
+        "010bac0b-145e-4380-9a71-ba09396886e1",
+        "66d10486-dd20-4cf4-9a4f-f2f4e19e662e"
+      ],
+      "holeInfos": []
+    },
+    {
+      "elementId": 26,
+      "id": "15",
+      "type": "wall",
+      "start": { "x": 3.46, "y": 8.753 },
+      "end": { "x": 1.692, "y": 8.753 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": [
+        "cb0d2a70-68a1-4e6e-af4d-1952e019b8e9",
+        "7ce46582-303e-4666-8c5a-d2e2ae2883ab"
+      ],
+      "holeInfos": []
+    },
+    {
+      "elementId": 27,
+      "id": "16",
+      "type": "wall",
+      "start": { "x": 3.46, "y": 8.753 },
+      "end": { "x": 3.46, "y": 5.363 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": [
+        "07dbb914-8397-4faa-9919-4079389d3e62",
+        "cb0d2a70-68a1-4e6e-af4d-1952e019b8e9"
+      ],
+      "holeInfos": [
+        {
+          "start": { "x": 3.46, "y": 8.045846000000001 },
+          "end": { "x": 3.46, "y": 6.173888 },
+          "height": 2.7,
+          "bottom": 0
+        }
+      ]
+    },
+    {
+      "elementId": 28,
+      "id": "17",
+      "type": "wall",
+      "start": { "x": 3.46, "y": 8.753 },
+      "end": { "x": 3.46, "y": 9.294 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": [
+        "7ce46582-303e-4666-8c5a-d2e2ae2883ab",
+        "044d4e0d-7360-4a9e-9227-8ababb6d9e49"
+      ],
+      "holeInfos": []
+    },
+    {
+      "elementId": 29,
+      "id": "18",
+      "type": "wall",
+      "start": { "x": 3.46, "y": 8.753 },
+      "end": { "x": 7.188, "y": 8.753 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": [
+        "044d4e0d-7360-4a9e-9227-8ababb6d9e49",
+        "07dbb914-8397-4faa-9919-4079389d3e62"
+      ],
+      "holeInfos": []
+    },
+    {
+      "elementId": 30,
+      "id": "19",
+      "type": "wall",
+      "start": { "x": 1.692, "y": 8.753 },
+      "end": { "x": 1.692, "y": 9.294 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": ["outside", "7ce46582-303e-4666-8c5a-d2e2ae2883ab"],
+      "holeInfos": []
+    },
+    {
+      "elementId": 31,
+      "id": "20",
+      "type": "wall",
+      "start": { "x": 1.692, "y": 8.753 },
+      "end": { "x": 1.692, "y": 5.363 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [136],
+      "roomIds": ["cb0d2a70-68a1-4e6e-af4d-1952e019b8e9", "outside"],
+      "holeInfos": [
+        {
+          "start": { "x": 1.692, "y": 8.616383 },
+          "end": { "x": 1.692, "y": 5.490803 },
+          "height": 2.2,
+          "bottom": 0.2
+        }
+      ]
+    },
+    {
+      "elementId": 32,
+      "id": "21",
+      "type": "wall",
+      "start": { "x": 2.834, "y": 5.363 },
+      "end": { "x": 3.46, "y": 5.363 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [106],
+      "roomIds": [
+        "cb0d2a70-68a1-4e6e-af4d-1952e019b8e9",
+        "112ab271-0ac2-477c-9bdd-7a2011037978"
+      ],
+      "holeInfos": [
+        {
+          "start": { "x": 2.7840000000000003, "y": 5.363 },
+          "end": { "x": 3.3734868000000002, "y": 5.363 },
+          "height": 1.998,
+          "bottom": 0.55
+        }
+      ]
+    },
+    {
+      "elementId": 33,
+      "id": "22",
+      "type": "wall",
+      "start": { "x": 2.834, "y": 5.363 },
+      "end": { "x": 2.834, "y": 3.428 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [104],
+      "roomIds": ["112ab271-0ac2-477c-9bdd-7a2011037978", "outside"],
+      "holeInfos": [
+        {
+          "start": { "x": 2.834, "y": 5.313000000000001 },
+          "end": { "x": 2.834, "y": 3.328 },
+          "height": 1.998,
+          "bottom": 0.55
+        }
+      ]
+    },
+    {
+      "elementId": 34,
+      "id": "23",
+      "type": "wall",
+      "start": { "x": 2.834, "y": 5.363 },
+      "end": { "x": 1.692, "y": 5.363 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [137],
+      "roomIds": ["outside", "cb0d2a70-68a1-4e6e-af4d-1952e019b8e9"],
+      "holeInfos": [
+        {
+          "start": { "x": 2.6056, "y": 5.363 },
+          "end": { "x": 1.8229874, "y": 5.363 },
+          "height": 2.2,
+          "bottom": 0.2
+        }
+      ]
+    },
+    {
+      "elementId": 35,
+      "id": "24",
+      "type": "wall",
+      "start": { "x": 6.141, "y": 2.707 },
+      "end": { "x": 8.84, "y": 2.707 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": ["6a71c7d1-7e20-40da-a205-04db7a2d10ed", "outside"],
+      "holeInfos": []
+    },
+    {
+      "elementId": 36,
+      "id": "25",
+      "type": "wall",
+      "start": { "x": 6.141, "y": 2.707 },
+      "end": { "x": 6.141, "y": 4.294 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": [
+        "112ab271-0ac2-477c-9bdd-7a2011037978",
+        "6a71c7d1-7e20-40da-a205-04db7a2d10ed"
+      ],
+      "holeInfos": []
+    },
+    {
+      "elementId": 37,
+      "id": "26",
+      "type": "wall",
+      "start": { "x": 8.84, "y": 2.707 },
+      "end": { "x": 8.84, "y": 2.154 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": ["outside", "outside"],
+      "holeInfos": []
+    },
+    {
+      "elementId": 38,
+      "id": "27",
+      "type": "wall",
+      "start": { "x": 8.84, "y": 2.707 },
+      "end": { "x": 8.84, "y": 5.264 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [107],
+      "roomIds": ["6a71c7d1-7e20-40da-a205-04db7a2d10ed", "outside"],
+      "holeInfos": [
+        {
+          "start": { "x": 8.84, "y": 3.3710529 },
+          "end": { "x": 8.84, "y": 4.3953871 },
+          "height": 1.5,
+          "bottom": 0.9
+        }
+      ]
+    },
+    {
+      "elementId": 39,
+      "id": "28",
+      "type": "wall",
+      "start": { "x": 6.141, "y": 4.294 },
+      "end": { "x": 7.296, "y": 4.294 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [132],
+      "roomIds": [
+        "07dbb914-8397-4faa-9919-4079389d3e62",
+        "6a71c7d1-7e20-40da-a205-04db7a2d10ed"
+      ],
+      "holeInfos": [
+        {
+          "start": { "x": 6.407112, "y": 4.294 },
+          "end": { "x": 7.033584, "y": 4.294 },
+          "height": 2.2,
+          "bottom": 0
+        }
+      ]
+    },
+    {
+      "elementId": 40,
+      "id": "29",
+      "type": "wall",
+      "start": { "x": 6.141, "y": 4.294 },
+      "end": { "x": 6.141, "y": 5.363 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [131],
+      "roomIds": [
+        "112ab271-0ac2-477c-9bdd-7a2011037978",
+        "07dbb914-8397-4faa-9919-4079389d3e62"
+      ],
+      "holeInfos": [
+        {
+          "start": { "x": 6.141, "y": 4.469957399999999 },
+          "end": { "x": 6.141, "y": 5.1572175 },
+          "height": 2.2,
+          "bottom": 0
+        }
+      ]
+    },
+    {
+      "elementId": 41,
+      "id": "30",
+      "type": "wall",
+      "start": { "x": 3.46, "y": 5.363 },
+      "end": { "x": 6.141, "y": 5.363 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": [
+        "07dbb914-8397-4faa-9919-4079389d3e62",
+        "112ab271-0ac2-477c-9bdd-7a2011037978"
+      ],
+      "holeInfos": []
+    },
+    {
+      "elementId": 42,
+      "id": "31",
+      "type": "wall",
+      "start": { "x": 10.445, "y": 7.386 },
+      "end": { "x": 11.084, "y": 7.386 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": [
+        "07dbb914-8397-4faa-9919-4079389d3e62",
+        "943f77b2-2070-4393-863e-73240c346e50"
+      ],
+      "holeInfos": []
+    },
+    {
+      "elementId": 43,
+      "id": "32",
+      "type": "wall",
+      "start": { "x": 10.445, "y": 7.386 },
+      "end": { "x": 8.84, "y": 7.386 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [103],
+      "roomIds": [
+        "59b23f7e-265d-426e-92ec-6dfd7dbfd884",
+        "07dbb914-8397-4faa-9919-4079389d3e62"
+      ],
+      "holeInfos": [
+        {
+          "start": { "x": 10.3029575, "y": 7.386 },
+          "end": { "x": 9.0195995, "y": 7.386 },
+          "height": 2.4,
+          "bottom": 0
+        }
+      ]
+    },
+    {
+      "elementId": 44,
+      "id": "33",
+      "type": "wall",
+      "start": { "x": 10.445, "y": 7.386 },
+      "end": { "x": 10.445, "y": 6.889 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": [
+        "943f77b2-2070-4393-863e-73240c346e50",
+        "59b23f7e-265d-426e-92ec-6dfd7dbfd884"
+      ],
+      "holeInfos": []
+    },
+    {
+      "elementId": 45,
+      "id": "34",
+      "type": "wall",
+      "start": { "x": 11.084, "y": 7.386 },
+      "end": { "x": 11.084, "y": 6.889 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": ["outside", "943f77b2-2070-4393-863e-73240c346e50"],
+      "holeInfos": []
+    },
+    {
+      "elementId": 46,
+      "id": "35",
+      "type": "wall",
+      "start": { "x": 11.084, "y": 7.386 },
+      "end": { "x": 11.084, "y": 9.082 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [135],
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62", "outside"],
+      "holeInfos": [
+        {
+          "start": { "x": 11.084, "y": 7.6963680000000005 },
+          "end": { "x": 11.084, "y": 8.4093664 },
+          "height": 2.2,
+          "bottom": 0
+        }
+      ]
+    },
+    {
+      "elementId": 47,
+      "id": "36",
+      "type": "wall",
+      "start": { "x": 2.834, "y": 3.428 },
+      "end": { "x": 2.834, "y": 2.067 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": ["508e3cbb-2259-4f6f-b864-93ac046302fc", "outside"],
+      "holeInfos": []
+    },
+    {
+      "elementId": 48,
+      "id": "37",
+      "type": "wall",
+      "start": { "x": 2.834, "y": 3.428 },
+      "end": { "x": 3.441, "y": 3.428 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [105],
+      "roomIds": [
+        "112ab271-0ac2-477c-9bdd-7a2011037978",
+        "508e3cbb-2259-4f6f-b864-93ac046302fc"
+      ],
+      "holeInfos": [
+        {
+          "start": { "x": 2.884, "y": 3.428 },
+          "end": { "x": 3.3469756999999998, "y": 3.428 },
+          "height": 1.998,
+          "bottom": 0.55
+        }
+      ]
+    },
+    {
+      "elementId": 49,
+      "id": "38",
+      "type": "wall",
+      "start": { "x": 2.834, "y": 2.067 },
+      "end": { "x": 3.441, "y": 2.067 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": ["508e3cbb-2259-4f6f-b864-93ac046302fc", "outside"],
+      "holeInfos": []
+    },
+    {
+      "elementId": 50,
+      "id": "39",
+      "type": "wall",
+      "start": { "x": 8.801, "y": 10.998 },
+      "end": { "x": 8.801, "y": 11.871 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": ["010bac0b-145e-4380-9a71-ba09396886e1", "outside"],
+      "holeInfos": []
+    },
+    {
+      "elementId": 51,
+      "id": "40",
+      "type": "wall",
+      "start": { "x": 8.801, "y": 10.998 },
+      "end": { "x": 8.385, "y": 10.998 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": [
+        "66d10486-dd20-4cf4-9a4f-f2f4e19e662e",
+        "010bac0b-145e-4380-9a71-ba09396886e1"
+      ],
+      "holeInfos": []
+    },
+    {
+      "elementId": 52,
+      "id": "41",
+      "type": "wall",
+      "start": { "x": 3.46, "y": 11.871 },
+      "end": { "x": 3.46, "y": 9.294 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": ["044d4e0d-7360-4a9e-9227-8ababb6d9e49", "outside"],
+      "holeInfos": []
+    },
+    {
+      "elementId": 53,
+      "id": "42",
+      "type": "wall",
+      "start": { "x": 3.46, "y": 9.294 },
+      "end": { "x": 1.692, "y": 9.294 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [138],
+      "roomIds": ["7ce46582-303e-4666-8c5a-d2e2ae2883ab", "outside"],
+      "holeInfos": [
+        {
+          "start": { "x": 3.1330968, "y": 9.294 },
+          "end": { "x": 2.2814512000000002, "y": 9.294 },
+          "height": 2.2,
+          "bottom": 0.2
+        }
+      ]
+    },
+    {
+      "elementId": 54,
+      "id": "43",
+      "type": "wall",
+      "start": { "x": 7.296, "y": 5.264 },
+      "end": { "x": 7.296, "y": 4.294 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": [
+        "6a71c7d1-7e20-40da-a205-04db7a2d10ed",
+        "07dbb914-8397-4faa-9919-4079389d3e62"
+      ],
+      "holeInfos": []
+    },
+    {
+      "elementId": 55,
+      "id": "44",
+      "type": "wall",
+      "start": { "x": 7.296, "y": 5.264 },
+      "end": { "x": 8.84, "y": 5.264 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": [
+        "07dbb914-8397-4faa-9919-4079389d3e62",
+        "6a71c7d1-7e20-40da-a205-04db7a2d10ed"
+      ],
+      "holeInfos": []
+    },
+    {
+      "elementId": 56,
+      "id": "45",
+      "type": "wall",
+      "start": { "x": 11.084, "y": 6.889 },
+      "end": { "x": 11.084, "y": 5.264 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": ["outside", "59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "holeInfos": []
+    },
+    {
+      "elementId": 57,
+      "id": "46",
+      "type": "wall",
+      "start": { "x": 11.084, "y": 6.889 },
+      "end": { "x": 10.445, "y": 6.889 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": [
+        "59b23f7e-265d-426e-92ec-6dfd7dbfd884",
+        "943f77b2-2070-4393-863e-73240c346e50"
+      ],
+      "holeInfos": []
+    },
+    {
+      "elementId": 58,
+      "id": "47",
+      "type": "wall",
+      "start": { "x": 11.084, "y": 5.264 },
+      "end": { "x": 8.84, "y": 5.264 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [108],
+      "roomIds": ["outside", "59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "holeInfos": [
+        {
+          "start": { "x": 10.1475788, "y": 5.264 },
+          "end": { "x": 9.3915752, "y": 5.264 },
+          "height": 1.5,
+          "bottom": 0.9
+        }
+      ]
+    },
+    {
+      "elementId": 59,
+      "id": "48",
+      "type": "wall",
+      "start": { "x": 8.84, "y": 7.386 },
+      "end": { "x": 8.84, "y": 5.264 },
+      "height": 2.7,
+      "thickness": 0.1,
+      "attachIds": [],
+      "roomIds": [
+        "59b23f7e-265d-426e-92ec-6dfd7dbfd884",
+        "07dbb914-8397-4faa-9919-4079389d3e62"
+      ],
+      "holeInfos": []
+    },
+    {
+      "elementId": 60,
+      "id": "",
+      "type": "sill",
+      "start": { "x": 2.8840000000000003, "y": 4.3955 },
+      "end": { "x": 3.3734868000000002, "y": 4.3955 },
+      "height": 0.55,
+      "thickness": 1.8350000000000009,
+      "attachIds": [],
+      "roomIds": [
+        "112ab271-0ac2-477c-9bdd-7a2011037978",
+        "112ab271-0ac2-477c-9bdd-7a2011037978"
+      ],
+      "holeInfos": []
+    }
+  ],
+  "furnitures": [
+    {
+      "elementId": 103,
+      "id": "50",
+      "name": "sliding_door_2",
+      "type": "doorway",
+      "url": "/CollovAssets/59c7e3b2-e378-4c9b-837b-47f3d1d372a8/双扇推拉门.glb",
+      "position": { "x": 9.6612785, "y": 7.386, "z": 1.2 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": {
+        "x": 0.7674522188683203,
+        "y": 0.8993211784350347,
+        "z": 1.1996992354016844
+      },
+      "roomIds": [
+        "59b23f7e-265d-426e-92ec-6dfd7dbfd884",
+        "07dbb914-8397-4faa-9919-4079389d3e62"
+      ],
+      "hostIds": [43]
+    },
+    {
+      "elementId": 104,
+      "id": "59",
+      "name": "bay_window",
+      "type": "window",
+      "url": "/CollovAssets/cc2e74f6-39fc-4adb-a76f-e7d871ad3122/窗户1.glb",
+      "position": { "x": 2.834, "y": 4.3955, "z": 1.549 },
+      "euler": { "x": 0, "y": 0, "z": 1.5707963267948963, "order": "XYZ" },
+      "scale": {
+        "x": 3.571304663371979,
+        "y": 2.4967343339096,
+        "z": 4.1089323455076086
+      },
+      "roomIds": ["112ab271-0ac2-477c-9bdd-7a2011037978", "outside"],
+      "hostIds": [33]
+    },
+    {
+      "elementId": 105,
+      "id": "60",
+      "name": "bay_window",
+      "type": "window",
+      "url": "/CollovAssets/cc2e74f6-39fc-4adb-a76f-e7d871ad3122/窗户1.glb",
+      "position": { "x": 3.0904878499999997, "y": 3.428, "z": 1.549 },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": {
+        "x": 0.9467661548354025,
+        "y": 2.4967343339096,
+        "z": 4.1089323455076086
+      },
+      "roomIds": [
+        "112ab271-0ac2-477c-9bdd-7a2011037978",
+        "508e3cbb-2259-4f6f-b864-93ac046302fc"
+      ],
+      "hostIds": [48]
+    },
+    {
+      "elementId": 106,
+      "id": "61",
+      "name": "bay_window",
+      "type": "window",
+      "url": "/CollovAssets/cc2e74f6-39fc-4adb-a76f-e7d871ad3122/窗户1.glb",
+      "position": { "x": 3.1037434, "y": 5.363, "z": 1.549 },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": {
+        "x": 0.9956959817403754,
+        "y": 2.4967343339096,
+        "z": 4.1089323455076086
+      },
+      "roomIds": [
+        "cb0d2a70-68a1-4e6e-af4d-1952e019b8e9",
+        "112ab271-0ac2-477c-9bdd-7a2011037978"
+      ],
+      "hostIds": [32]
+    },
+    {
+      "elementId": 107,
+      "id": "62",
+      "name": "window",
+      "type": "window",
+      "url": "/CollovAssets/cc2e74f6-39fc-4adb-a76f-e7d871ad3122/窗户1.glb",
+      "position": { "x": 8.84, "y": 3.8832199999999997, "z": 1.65 },
+      "euler": { "x": 0, "y": 0, "z": 1.5707963267948966, "order": "XYZ" },
+      "scale": {
+        "x": 1.89054754796455,
+        "y": 2.4967343339096,
+        "z": 3.0847840431738804
+      },
+      "roomIds": ["6a71c7d1-7e20-40da-a205-04db7a2d10ed", "outside"],
+      "hostIds": [38]
+    },
+    {
+      "elementId": 108,
+      "id": "63",
+      "name": "window",
+      "type": "window",
+      "url": "/CollovAssets/cc2e74f6-39fc-4adb-a76f-e7d871ad3122/窗户1.glb",
+      "position": { "x": 9.769577, "y": 5.264, "z": 1.65 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": {
+        "x": 1.3953070709074948,
+        "y": 2.4967343339096,
+        "z": 3.0847840431738804
+      },
+      "roomIds": ["outside", "59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": [58]
+    },
+    {
+      "elementId": 109,
+      "id": "00e3ddc1-cd9d-416f-bca9-4e75eb48c3f1",
+      "name": "橱柜封板.zip",
+      "type": "sealing_plate",
+      "url": "/CollovAssets/collov/kitchen/sealing_plate/style/d8c174a7-b75e-4d9c-b0d7-ffe25bf42d70/橱柜封板.glb",
+      "position": { "x": 5.796, "y": 4.46, "z": 1.355 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 0.18, "y": 5.9, "z": 26.9 },
+      "roomIds": ["112ab271-0ac2-477c-9bdd-7a2011037978"],
+      "hostIds": []
+    },
+    {
+      "elementId": 110,
+      "id": "36adafae-f8a6-4f64-97dc-cd2e4276815f",
+      "name": "橱柜封板.zip",
+      "type": "sealing_plate",
+      "url": "/CollovAssets/collov/kitchen/sealing_plate/style/d8c174a7-b75e-4d9c-b0d7-ffe25bf42d70/橱柜封板.glb",
+      "position": { "x": 5.796, "y": 2.778, "z": 1.355 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 0.42, "y": 5.9, "z": 26.9 },
+      "roomIds": ["112ab271-0ac2-477c-9bdd-7a2011037978"],
+      "hostIds": []
+    },
+    {
+      "elementId": 111,
+      "id": "a7766210-f29b-45c3-9d1e-4556ea255119",
+      "name": "橱柜封板.zip",
+      "type": "sealing_plate",
+      "url": "/CollovAssets/collov/kitchen/sealing_plate/style/d8c174a7-b75e-4d9c-b0d7-ffe25bf42d70/橱柜封板.glb",
+      "position": { "x": 5.801, "y": 3.608, "z": 0.005 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 17.02, "y": 5.8, "z": 0.1 },
+      "roomIds": ["112ab271-0ac2-477c-9bdd-7a2011037978"],
+      "hostIds": []
+    },
+    {
+      "elementId": 112,
+      "id": "7585624e-a1e4-405f-b4fd-a795496a9cfa",
+      "name": "橱柜封板.zip",
+      "type": "sealing_plate",
+      "url": "/CollovAssets/collov/kitchen/sealing_plate/style/d8c174a7-b75e-4d9c-b0d7-ffe25bf42d70/橱柜封板.glb",
+      "position": { "x": 6.182, "y": 5.588, "z": 1.5 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 0.18, "y": 3.5, "z": 18 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 113,
+      "id": "052b0769-b553-4860-946d-bdea2582abd4",
+      "name": "橱柜封板.zip",
+      "type": "sealing_plate",
+      "url": "/CollovAssets/collov/kitchen/sealing_plate/style/d8c174a7-b75e-4d9c-b0d7-ffe25bf42d70/橱柜封板.glb",
+      "position": { "x": 3.5315, "y": 5.588, "z": 1.5 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 0.43, "y": 3.5, "z": 18 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 114,
+      "id": "86410a7c-9c31-496e-9860-611718118fc4",
+      "name": "橱柜封板.zip",
+      "type": "sealing_plate",
+      "url": "/CollovAssets/collov/kitchen/sealing_plate/style/d8c174a7-b75e-4d9c-b0d7-ffe25bf42d70/橱柜封板.glb",
+      "position": { "x": 4.863, "y": 5.588, "z": 1.667 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 15.72, "y": 3.5, "z": 0.2 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 115,
+      "id": "458c4a7c-7a1c-49be-a44e-7f34ae4a5232",
+      "name": "橱柜封板.zip",
+      "type": "sealing_plate",
+      "url": "/CollovAssets/collov/kitchen/sealing_plate/style/d8c174a7-b75e-4d9c-b0d7-ffe25bf42d70/橱柜封板.glb",
+      "position": { "x": 4.863, "y": 5.588, "z": 0.86 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 15.72, "y": 3.5, "z": 0.2 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 116,
+      "id": "baa9c7bc-574d-49d7-92a3-8903eb9089ff",
+      "name": "橱柜封板.zip",
+      "type": "sealing_plate",
+      "url": "/CollovAssets/collov/kitchen/sealing_plate/style/d8c174a7-b75e-4d9c-b0d7-ffe25bf42d70/橱柜封板.glb",
+      "position": { "x": 4.863, "y": 5.423, "z": 1.2635 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 15.72, "y": 0.2, "z": 8.27 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 117,
+      "id": "45e50587-b8a3-4010-b0c9-aefcef676fed",
+      "name": "橱柜封板.zip",
+      "type": "sealing_plate",
+      "url": "/CollovAssets/collov/kitchen/sealing_plate/style/d8c174a7-b75e-4d9c-b0d7-ffe25bf42d70/橱柜封板.glb",
+      "position": { "x": 5.639, "y": 5.588, "z": 1.2635 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 0.2, "y": 3.5, "z": 8.27 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 118,
+      "id": "a2761685-01a1-4e0f-8047-fc83e9c1963f",
+      "name": "橱柜封板.zip",
+      "type": "sealing_plate",
+      "url": "/CollovAssets/collov/kitchen/sealing_plate/style/d8c174a7-b75e-4d9c-b0d7-ffe25bf42d70/橱柜封板.glb",
+      "position": { "x": 4.087, "y": 5.588, "z": 1.2635 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 0.2, "y": 3.5, "z": 8.27 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 119,
+      "id": "0aa4ec55-1251-484b-b0eb-f6ad8b0ffd5f",
+      "name": "橱柜封板.zip",
+      "type": "sealing_plate",
+      "url": "/CollovAssets/collov/kitchen/sealing_plate/style/d8c174a7-b75e-4d9c-b0d7-ffe25bf42d70/橱柜封板.glb",
+      "position": { "x": 4.8505, "y": 5.588, "z": 0.26 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 26.81, "y": 3.5, "z": 0.2 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 120,
+      "id": "555ca1b5-c5b2-4820-ae30-3f7867648739",
+      "name": "橱柜封板.zip",
+      "type": "sealing_plate",
+      "url": "/CollovAssets/collov/kitchen/sealing_plate/style/d8c174a7-b75e-4d9c-b0d7-ffe25bf42d70/橱柜封板.glb",
+      "position": { "x": 10.739, "y": 6.833, "z": 0.43 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 0.12, "y": 5.9, "z": 7 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": [],
+      "materialInfo": {
+        "color": "rgb(255,255,255)",
+        "texture": "https://ai-generate-data.s3.us-west-2.amazonaws.com/data/decor/tmp/586a9dba-e74c-4bc1-b5be-9e8977d54dd7/雪松绿.jpg"
+      }
+    },
+    {
+      "elementId": 121,
+      "id": "3fd565a0-16e3-480f-b3ac-302314c5c2dc",
+      "name": "橱柜封板.zip",
+      "type": "sealing_plate",
+      "url": "/CollovAssets/collov/kitchen/sealing_plate/style/d8c174a7-b75e-4d9c-b0d7-ffe25bf42d70/橱柜封板.glb",
+      "position": { "x": 10.739, "y": 5.321, "z": 0.43 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 0.12, "y": 5.9, "z": 7 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": [],
+      "materialInfo": {
+        "color": "rgb(255,255,255)",
+        "texture": "https://ai-generate-data.s3.us-west-2.amazonaws.com/data/decor/tmp/586a9dba-e74c-4bc1-b5be-9e8977d54dd7/雪松绿.jpg"
+      }
+    },
+    {
+      "elementId": 122,
+      "id": "89b6d20e-50db-44a6-8e5c-26a8614047f6",
+      "name": "橱柜封板.zip",
+      "type": "sealing_plate",
+      "url": "/CollovAssets/collov/kitchen/sealing_plate/style/d8c174a7-b75e-4d9c-b0d7-ffe25bf42d70/橱柜封板.glb",
+      "position": { "x": 10.7615, "y": 6.0765, "z": 0.04 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 15.25, "y": 5.45, "z": 1 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": [],
+      "materialInfo": {
+        "color": "rgb(255,255,255)",
+        "texture": "https://ai-generate-data.s3.us-west-2.amazonaws.com/data/decor/tmp/586a9dba-e74c-4bc1-b5be-9e8977d54dd7/雪松绿.jpg"
+      }
+    },
+    {
+      "elementId": 123,
+      "id": "465a825c-8b40-4c96-8649-6b2847f5e314",
+      "name": "橱柜封板.zip",
+      "type": "sealing_plate",
+      "url": "/CollovAssets/collov/kitchen/sealing_plate/style/d8c174a7-b75e-4d9c-b0d7-ffe25bf42d70/橱柜封板.glb",
+      "position": { "x": 10.859, "y": 6.833, "z": 1.92 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 0.12, "y": 3.5, "z": 8 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": [],
+      "materialInfo": {
+        "color": "rgb(255,255,255)",
+        "texture": "https://ai-generate-data.s3.us-west-2.amazonaws.com/data/decor/tmp/586a9dba-e74c-4bc1-b5be-9e8977d54dd7/雪松绿.jpg"
+      }
+    },
+    {
+      "elementId": 124,
+      "id": "91f1f5b6-5012-4c3d-936b-107784979ff5",
+      "name": "橱柜封板.zip",
+      "type": "sealing_plate",
+      "url": "/CollovAssets/collov/kitchen/sealing_plate/style/d8c174a7-b75e-4d9c-b0d7-ffe25bf42d70/橱柜封板.glb",
+      "position": { "x": 10.859, "y": 5.321, "z": 1.92 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 0.12, "y": 3.5, "z": 8 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": [],
+      "materialInfo": {
+        "color": "rgb(255,255,255)",
+        "texture": "https://ai-generate-data.s3.us-west-2.amazonaws.com/data/decor/tmp/586a9dba-e74c-4bc1-b5be-9e8977d54dd7/雪松绿.jpg"
+      }
+    },
+    {
+      "elementId": 125,
+      "id": "bf680736-5096-4ba9-8183-474bf06f3e8c",
+      "name": "橱柜封板.zip",
+      "type": "sealing_plate",
+      "url": "/CollovAssets/collov/kitchen/sealing_plate/style/d8c174a7-b75e-4d9c-b0d7-ffe25bf42d70/橱柜封板.glb",
+      "position": { "x": 10.859, "y": 6.077, "z": 2.36 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 15.24, "y": 3.5, "z": 0.8 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": [],
+      "materialInfo": {
+        "color": "rgb(255,255,255)",
+        "texture": "https://ai-generate-data.s3.us-west-2.amazonaws.com/data/decor/tmp/586a9dba-e74c-4bc1-b5be-9e8977d54dd7/雪松绿.jpg"
+      }
+    },
+    {
+      "elementId": 126,
+      "id": "0f67e1b6-90bc-4802-bae3-57df4828e642",
+      "name": "橱柜封板.zip",
+      "type": "sealing_plate",
+      "url": "/CollovAssets/collov/kitchen/sealing_plate/style/d8c174a7-b75e-4d9c-b0d7-ffe25bf42d70/橱柜封板.glb",
+      "position": { "x": 6.843, "y": 11.8005, "z": 1.355 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 0.41, "y": 5.9, "z": 26.9 },
+      "roomIds": ["044d4e0d-7360-4a9e-9227-8ababb6d9e49"],
+      "hostIds": []
+    },
+    {
+      "elementId": 127,
+      "id": "372c3903-ff7a-42fc-a9b3-64786f9c293a",
+      "name": "橱柜封板.zip",
+      "type": "sealing_plate",
+      "url": "/CollovAssets/collov/kitchen/sealing_plate/style/d8c174a7-b75e-4d9c-b0d7-ffe25bf42d70/橱柜封板.glb",
+      "position": { "x": 6.843, "y": 9.706, "z": 1.355 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 0.18, "y": 5.9, "z": 26.9 },
+      "roomIds": ["044d4e0d-7360-4a9e-9227-8ababb6d9e49"],
+      "hostIds": []
+    },
+    {
+      "elementId": 128,
+      "id": "25931d88-00c2-45e6-ad25-3e52c3a3d629",
+      "name": "橱柜封板.zip",
+      "type": "sealing_plate",
+      "url": "/CollovAssets/collov/kitchen/sealing_plate/style/d8c174a7-b75e-4d9c-b0d7-ffe25bf42d70/橱柜封板.glb",
+      "position": { "x": 6.848, "y": 10.764, "z": 0.005 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 21.14, "y": 5.8, "z": 0.1 },
+      "roomIds": ["044d4e0d-7360-4a9e-9227-8ababb6d9e49"],
+      "hostIds": []
+    },
+    {
+      "elementId": 129,
+      "id": "10993f66-d3c7-4365-a05e-706328017a8e",
+      "name": "床头吊灯",
+      "type": "vertical_chandelier",
+      "url": "/CollovAssets/fa0daed8-aa6c-4b7b-bf35-192de2d97c0b/床头吊灯.glb",
+      "position": { "x": 5.241, "y": 2.8915, "z": 2.1315 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["112ab271-0ac2-477c-9bdd-7a2011037978"],
+      "hostIds": []
+    },
+    {
+      "elementId": 130,
+      "id": "36ed5b56-aea0-4a19-ab46-d32cf2a0e97c",
+      "name": "床头吊灯",
+      "type": "vertical_chandelier",
+      "url": "/CollovAssets/fa0daed8-aa6c-4b7b-bf35-192de2d97c0b/床头吊灯.glb",
+      "position": { "x": 3.6445, "y": 9.771, "z": 2.1315 },
+      "euler": { "x": 0, "y": 0, "z": 1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["044d4e0d-7360-4a9e-9227-8ababb6d9e49"],
+      "hostIds": []
+    },
+    {
+      "elementId": 131,
+      "id": "51",
+      "name": "door",
+      "type": "door",
+      "url": "/CollovAssets/0ec6dcc8-9400-4056-bcb8-a6ca97abc182/JM-YQQ100.glb",
+      "position": { "x": 6.141, "y": 4.81358745, "z": 1.1 },
+      "euler": { "x": 0, "y": 0, "z": 1.5707963267948961, "order": "XYZ" },
+      "scale": {
+        "x": 0.7041543399204125,
+        "y": 0.3104726439545704,
+        "z": 0.8979583370270373
+      },
+      "roomIds": [
+        "112ab271-0ac2-477c-9bdd-7a2011037978",
+        "07dbb914-8397-4faa-9919-4079389d3e62"
+      ],
+      "hostIds": [40]
+    },
+    {
+      "elementId": 132,
+      "id": "52",
+      "name": "door",
+      "type": "door",
+      "url": "/CollovAssets/0ec6dcc8-9400-4056-bcb8-a6ca97abc182/JM-YQQ100.glb",
+      "position": { "x": 6.7203479999999995, "y": 4.294, "z": 1.1 },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": {
+        "x": 0.641871945772235,
+        "y": 0.3104726439545704,
+        "z": 0.8979583370270373
+      },
+      "roomIds": [
+        "07dbb914-8397-4faa-9919-4079389d3e62",
+        "6a71c7d1-7e20-40da-a205-04db7a2d10ed"
+      ],
+      "hostIds": [39]
+    },
+    {
+      "elementId": 133,
+      "id": "53",
+      "name": "door",
+      "type": "door",
+      "url": "/CollovAssets/0ec6dcc8-9400-4056-bcb8-a6ca97abc182/JM-YQQ100.glb",
+      "position": { "x": 7.188, "y": 9.3714515, "z": 1.1 },
+      "euler": { "x": 0, "y": 0, "z": 1.5707963267948961, "order": "XYZ" },
+      "scale": {
+        "x": 0.6684998078293973,
+        "y": 0.3104726439545704,
+        "z": 0.8979583370270373
+      },
+      "roomIds": [
+        "07dbb914-8397-4faa-9919-4079389d3e62",
+        "044d4e0d-7360-4a9e-9227-8ababb6d9e49"
+      ],
+      "hostIds": [21]
+    },
+    {
+      "elementId": 134,
+      "id": "54",
+      "name": "door",
+      "type": "door",
+      "url": "/CollovAssets/0ec6dcc8-9400-4056-bcb8-a6ca97abc182/JM-YQQ100.glb",
+      "position": { "x": 7.63778505, "y": 9.938, "z": 1.1 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": {
+        "x": 0.659572932084065,
+        "y": 0.3104726439545704,
+        "z": 0.8979583370270373
+      },
+      "roomIds": [
+        "07dbb914-8397-4faa-9919-4079389d3e62",
+        "66d10486-dd20-4cf4-9a4f-f2f4e19e662e"
+      ],
+      "hostIds": [18]
+    },
+    {
+      "elementId": 135,
+      "id": "55",
+      "name": "door",
+      "type": "door",
+      "url": "/CollovAssets/0ec6dcc8-9400-4056-bcb8-a6ca97abc182/JM-YQQ100.glb",
+      "position": { "x": 11.084, "y": 8.0528672, "z": 1.1 },
+      "euler": { "x": 0, "y": 0, "z": 1.5707963267948961, "order": "XYZ" },
+      "scale": {
+        "x": 0.7305253392657443,
+        "y": 0.3104726439545704,
+        "z": 0.8979583370270373
+      },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62", "outside"],
+      "hostIds": [46]
+    },
+    {
+      "elementId": 136,
+      "id": "56",
+      "name": "french_window",
+      "type": "window",
+      "url": "/CollovAssets/0e074a60-60f8-47e0-aaa6-74de7f5d54fb/窗户2.glb",
+      "position": { "x": 1.692, "y": 7.053593, "z": 1.3 },
+      "euler": { "x": 0, "y": 0, "z": 1.5707963267948961, "order": "XYZ" },
+      "scale": {
+        "x": 6.699876195115964,
+        "y": 2.8558231812507944,
+        "z": 6.008514523912403
+      },
+      "roomIds": ["cb0d2a70-68a1-4e6e-af4d-1952e019b8e9", "outside"],
+      "hostIds": [31]
+    },
+    {
+      "elementId": 137,
+      "id": "57",
+      "name": "french_window",
+      "type": "window",
+      "url": "/CollovAssets/0e074a60-60f8-47e0-aaa6-74de7f5d54fb/窗户2.glb",
+      "position": { "x": 2.2142937, "y": 5.363, "z": 1.3 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": {
+        "x": 1.677579050524322,
+        "y": 2.8558231812507944,
+        "z": 6.008514523912403
+      },
+      "roomIds": ["outside", "cb0d2a70-68a1-4e6e-af4d-1952e019b8e9"],
+      "hostIds": [34]
+    },
+    {
+      "elementId": 138,
+      "id": "58",
+      "name": "french_window",
+      "type": "window",
+      "url": "/CollovAssets/0e074a60-60f8-47e0-aaa6-74de7f5d54fb/窗户2.glb",
+      "position": { "x": 2.707274, "y": 9.294, "z": 1.3 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": {
+        "x": 1.825555603156934,
+        "y": 2.8558231812507944,
+        "z": 6.008514523912403
+      },
+      "roomIds": ["7ce46582-303e-4666-8c5a-d2e2ae2883ab", "outside"],
+      "hostIds": [53]
+    },
+    {
+      "elementId": 139,
+      "id": "0ff390b7-6072-45a0-be13-588a6727c62a",
+      "name": "衣柜双.zip",
+      "type": "wardrobe",
+      "url": "/CollovAssets/collov/bedroom/wardrobe/style/ff6a1737-2132-468f-9951-ae20ff655957/衣柜双.glb",
+      "position": { "x": 5.796, "y": 4.038, "z": 1.355 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 1.18, "y": 1.1346153846153846, "z": 1.2117117117117118 },
+      "roomIds": ["112ab271-0ac2-477c-9bdd-7a2011037978"],
+      "hostIds": []
+    },
+    {
+      "elementId": 140,
+      "id": "e9a62a72-3700-408c-aa07-5a6a0ce32579",
+      "name": "衣柜双.zip",
+      "type": "wardrobe",
+      "url": "/CollovAssets/collov/bedroom/wardrobe/style/ff6a1737-2132-468f-9951-ae20ff655957/衣柜双.glb",
+      "position": { "x": 5.796, "y": 3.212, "z": 1.355 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 1.18, "y": 1.1346153846153846, "z": 1.2117117117117118 },
+      "roomIds": ["112ab271-0ac2-477c-9bdd-7a2011037978"],
+      "hostIds": []
+    },
+    {
+      "elementId": 141,
+      "id": "c0f4c04f-ccce-4793-8f55-fca515443617",
+      "name": "衣柜双.zip",
+      "type": "wardrobe",
+      "url": "/CollovAssets/collov/bedroom/wardrobe/style/ff6a1737-2132-468f-9951-ae20ff655957/衣柜双.glb",
+      "position": { "x": 6.843, "y": 10.954, "z": 1.355 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 1.18, "y": 1.1346153846153846, "z": 1.2117117117117118 },
+      "roomIds": ["044d4e0d-7360-4a9e-9227-8ababb6d9e49"],
+      "hostIds": []
+    },
+    {
+      "elementId": 142,
+      "id": "5ca5adbd-ddc2-4ee4-b096-4d30d86e365b",
+      "name": "衣柜双.zip",
+      "type": "wardrobe",
+      "url": "/CollovAssets/collov/bedroom/wardrobe/style/ff6a1737-2132-468f-9951-ae20ff655957/衣柜双.glb",
+      "position": { "x": 6.843, "y": 10.128, "z": 1.355 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 1.18, "y": 1.1346153846153846, "z": 1.2117117117117118 },
+      "roomIds": ["044d4e0d-7360-4a9e-9227-8ababb6d9e49"],
+      "hostIds": []
+    },
+    {
+      "elementId": 143,
+      "id": "13f3a58c-774f-4fa1-8cef-a2b42ea9b8a6",
+      "name": "金牌软床花系魅影01床头柜.zip",
+      "type": "bedside_table",
+      "url": "/CollovAssets/金牌/bedroom/bedside_table/style/ca7631dd-730c-4a30-b5f6-cd4818946727/床头柜12.glb",
+      "position": { "x": 5.241, "y": 2.965, "z": 0.24 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["112ab271-0ac2-477c-9bdd-7a2011037978"],
+      "hostIds": []
+    },
+    {
+      "elementId": 144,
+      "id": "002b6f6f-e50b-4316-bf23-c9732c8b9cf9",
+      "name": "金牌软床花系魅影01床头柜.zip",
+      "type": "bedside_table",
+      "url": "/CollovAssets/金牌/bedroom/bedside_table/style/ca7631dd-730c-4a30-b5f6-cd4818946727/床头柜12.glb",
+      "position": { "x": 3.718, "y": 9.771, "z": 0.24 },
+      "euler": { "x": 0, "y": 0, "z": 1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["044d4e0d-7360-4a9e-9227-8ababb6d9e49"],
+      "hostIds": []
+    },
+    {
+      "elementId": 145,
+      "id": "274d8606-683c-4461-8b1b-a727bd54a933",
+      "name": "吸顶灯.zip",
+      "type": "ceiling_light",
+      "url": "/CollovAssets/collov/bedroom/ceiling_light/style/7e3a5f6c-b2ec-43ec-96d7-f71098b9a79f/吸顶灯.glb",
+      "position": { "x": 4.495, "y": 4.035, "z": 2.382 },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["112ab271-0ac2-477c-9bdd-7a2011037978"],
+      "hostIds": []
+    },
+    {
+      "elementId": 146,
+      "id": "1e04d716-fe55-4cd3-8f6c-4126b23d749f",
+      "name": "吸顶灯.zip",
+      "type": "ceiling_light",
+      "url": "/CollovAssets/collov/bedroom/ceiling_light/style/7e3a5f6c-b2ec-43ec-96d7-f71098b9a79f/吸顶灯.glb",
+      "position": {
+        "x": 9.902516203764202,
+        "y": 6.264725721422197,
+        "z": 2.382
+      },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": []
+    },
+    {
+      "elementId": 147,
+      "id": "c9093081-4989-467b-854c-481f0cb05159",
+      "name": "吸顶灯.zip",
+      "type": "ceiling_light",
+      "url": "/CollovAssets/collov/bedroom/ceiling_light/style/7e3a5f6c-b2ec-43ec-96d7-f71098b9a79f/吸顶灯.glb",
+      "position": { "x": 5.028, "y": 10.312, "z": 2.382 },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["044d4e0d-7360-4a9e-9227-8ababb6d9e49"],
+      "hostIds": []
+    },
+    {
+      "elementId": 148,
+      "id": "dde69dea-4170-4534-a946-6dbc5a925689",
+      "name": "吸顶灯.zip",
+      "type": "ceiling_light",
+      "url": "/CollovAssets/collov/bedroom/ceiling_light/style/7e3a5f6c-b2ec-43ec-96d7-f71098b9a79f/吸顶灯.glb",
+      "position": { "x": 2.576, "y": 7.058, "z": 2.382 },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["cb0d2a70-68a1-4e6e-af4d-1952e019b8e9"],
+      "hostIds": []
+    },
+    {
+      "elementId": 149,
+      "id": "95d946fe-c9b7-4216-a07d-e2b2f44fd512",
+      "name": "吸顶灯.zip",
+      "type": "ceiling_light",
+      "url": "/CollovAssets/collov/bedroom/ceiling_light/style/7e3a5f6c-b2ec-43ec-96d7-f71098b9a79f/吸顶灯.glb",
+      "position": {
+        "x": 7.91185089564556,
+        "y": 10.832172616061749,
+        "z": 2.382
+      },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["66d10486-dd20-4cf4-9a4f-f2f4e19e662e"],
+      "hostIds": []
+    },
+    {
+      "elementId": 150,
+      "id": "d174ac5e-f6fd-49d2-99a3-a2a4881ff94f",
+      "name": "金牌软床花系魅影01真皮浅砂灰1.8m1.zip",
+      "type": "bed",
+      "url": "/CollovAssets/金牌/bedroom/bed/style/203c8c1f-4977-4262-b9b8-68774bd76a4b/金牌软床花系魅影01-真皮-浅砂灰-1.8m1.glb",
+      "position": { "x": 4.241, "y": 3.757, "z": 0.5775 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 0.7865757734661772, "y": 0.8561643835616438, "z": 1 },
+      "roomIds": ["112ab271-0ac2-477c-9bdd-7a2011037978"],
+      "hostIds": []
+    },
+    {
+      "elementId": 151,
+      "id": "841ee68d-9de0-402a-9df2-4db3e82e6e85",
+      "name": "金牌软床花系魅影01真皮浅砂灰1.8m1.zip",
+      "type": "bed",
+      "url": "/CollovAssets/金牌/bedroom/bed/style/203c8c1f-4977-4262-b9b8-68774bd76a4b/金牌软床花系魅影01-真皮-浅砂灰-1.8m1.glb",
+      "position": { "x": 4.51, "y": 10.921, "z": 0.5775 },
+      "euler": { "x": 0, "y": 0, "z": 1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 0.9438909281594127, "y": 0.8561643835616438, "z": 1 },
+      "roomIds": ["044d4e0d-7360-4a9e-9227-8ababb6d9e49"],
+      "hostIds": []
+    },
+    {
+      "elementId": 152,
+      "id": "f9718679-6460-4afd-82e2-cb26fa3a800c",
+      "name": "Sylvie Going in Circles Framed Textured Canvas Set by Teju Reval of SnazzyHues1.zip",
+      "type": "wall_art",
+      "url": "/CollovAssets/collov/bedroom/wall_art/style/d5748ef2-730e-4296-afdb-068e90ccc6ec/Sylvie Going in Circles Framed Textured Canvas Set by Teju Reval of SnazzyHues1.glb",
+      "position": { "x": 4.241, "y": 2.7695, "z": 1.777 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["112ab271-0ac2-477c-9bdd-7a2011037978"],
+      "hostIds": []
+    },
+    {
+      "elementId": 153,
+      "id": "76c5e8cf-51fb-42bc-a946-6640e197958f",
+      "name": "Sylvie Going in Circles Framed Textured Canvas Set by Teju Reval of SnazzyHues1.zip",
+      "type": "wall_art",
+      "url": "/CollovAssets/collov/bedroom/wall_art/style/d5748ef2-730e-4296-afdb-068e90ccc6ec/Sylvie Going in Circles Framed Textured Canvas Set by Teju Reval of SnazzyHues1.glb",
+      "position": { "x": 3.5225, "y": 10.921, "z": 1.777 },
+      "euler": { "x": 0, "y": 0, "z": 1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["044d4e0d-7360-4a9e-9227-8ababb6d9e49"],
+      "hostIds": []
+    },
+    {
+      "elementId": 154,
+      "id": "8fe0bc59-eb41-42db-86f1-cfc7bac64b5d",
+      "name": "Ivory Sheepskin Throw Rug.zip",
+      "type": "carpet",
+      "url": "/CollovAssets/collov/bedroom/carpet/style/048c63e4-e8b7-4520-a26b-1975c5ce5477/Ivory Sheepskin Throw Rug.glb",
+      "position": { "x": 4.491, "y": 4.507, "z": 0.012 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 2.1739130434782608, "y": 2.9069767441860463, "z": 1 },
+      "roomIds": ["112ab271-0ac2-477c-9bdd-7a2011037978"],
+      "hostIds": []
+    },
+    {
+      "elementId": 155,
+      "id": "3a0818c4-d7e3-45c8-a51c-326aee2f2242",
+      "name": "Ivory Sheepskin Throw Rug.zip",
+      "type": "carpet",
+      "url": "/CollovAssets/collov/bedroom/carpet/style/048c63e4-e8b7-4520-a26b-1975c5ce5477/Ivory Sheepskin Throw Rug.glb",
+      "position": {
+        "x": 5.512611796797794,
+        "y": 10.670999999999998,
+        "z": 0.012
+      },
+      "euler": { "x": 0, "y": 0, "z": 1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 2.5, "y": 3.8860922356503584, "z": 1 },
+      "roomIds": ["044d4e0d-7360-4a9e-9227-8ababb6d9e49"],
+      "hostIds": []
+    },
+    {
+      "elementId": 156,
+      "id": "7ec66e12-0810-45b0-a571-06f6c30977d2",
+      "name": "窗帘.zip",
+      "type": "curtain",
+      "url": "/CollovAssets/collov/bedroom/curtain/style/afbd9048-71e7-4e67-9522-6b9f54720650/窗帘.glb",
+      "position": { "x": 3.6285, "y": 4.3455, "z": 1.15 },
+      "euler": { "x": 0, "y": 0, "z": 1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 0.7422324510932106, "y": 1, "z": 0.8859784283513097 },
+      "roomIds": ["112ab271-0ac2-477c-9bdd-7a2011037978"],
+      "hostIds": []
+    },
+    {
+      "elementId": 157,
+      "id": "15b4dcce-c609-44d1-86a1-d4a7e7e509d0",
+      "name": "电视柜单.zip",
+      "type": "electrical_cabinet",
+      "url": "/CollovAssets/collov/living_room/electrical_cabinet/style/917c8578-92b8-46e6-9171-3ffdbd6ece01/电视柜单.glb",
+      "position": { "x": 5.911, "y": 5.588, "z": 1.5 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 1.497142857142857, "y": 1, "z": 1 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 158,
+      "id": "ca143356-d70a-4b04-b46a-ea21fe9b6dda",
+      "name": "电视柜单.zip",
+      "type": "electrical_cabinet",
+      "url": "/CollovAssets/collov/living_room/electrical_cabinet/style/917c8578-92b8-46e6-9171-3ffdbd6ece01/电视柜单.glb",
+      "position": { "x": 3.815, "y": 5.588, "z": 1.5 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 1.497142857142857, "y": 1, "z": 1 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 159,
+      "id": "31b12979-284b-4a41-a16b-30364506041b",
+      "name": "电视柜短单.zip",
+      "type": "electrical_cabinet",
+      "url": "/CollovAssets/collov/living_room/electrical_cabinet/style/f071d6d2-e235-41a0-9ddd-377d73fc4847/电视柜短单.glb",
+      "position": { "x": 5.387, "y": 5.588, "z": 2.0385 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 1.501432664756447, "y": 1, "z": 0.723 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 160,
+      "id": "ed08c026-9831-4ff6-853b-c37131fbd97c",
+      "name": "电视柜短单.zip",
+      "type": "electrical_cabinet",
+      "url": "/CollovAssets/collov/living_room/electrical_cabinet/style/f071d6d2-e235-41a0-9ddd-377d73fc4847/电视柜短单.glb",
+      "position": { "x": 4.863, "y": 5.588, "z": 2.0385 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 1.501432664756447, "y": 1, "z": 0.723 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 161,
+      "id": "c99ab03e-b723-4c69-9283-f35fd4e9eaf7",
+      "name": "电视柜短单.zip",
+      "type": "electrical_cabinet",
+      "url": "/CollovAssets/collov/living_room/electrical_cabinet/style/f071d6d2-e235-41a0-9ddd-377d73fc4847/电视柜短单.glb",
+      "position": { "x": 4.339, "y": 5.588, "z": 2.0385 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 1.501432664756447, "y": 1, "z": 0.723 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 162,
+      "id": "0f2623c1-5423-4c5d-88c4-1c247835d02c",
+      "name": "电视带金牌logo新.zip",
+      "type": "tv",
+      "url": "/CollovAssets/金牌/living_room/tv/style/5e963801-1cb4-4684-a698-a1c7f6df1950/电视带金牌logo.glb",
+      "position": { "x": 4.863, "y": 5.452, "z": 1.263 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": {
+        "x": 0.8634361233480177,
+        "y": 1.3448275862068966,
+        "z": 0.671306209850107
+      },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 163,
+      "id": "532ba87d-cc91-45e6-be14-1a1ee2445873",
+      "name": "电视柜抽屉.zip",
+      "type": "chest_of_drawers",
+      "url": "/CollovAssets/collov/living_room/chest_of_drawers/style/f8f6bf89-b9b1-4b3b-8b95-389a6eb81bbb/电视柜抽屉.glb",
+      "position": { "x": 4.863, "y": 5.588, "z": 0.725 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": {
+        "x": 2.2457142857142856,
+        "y": 0.9859154929577465,
+        "z": 1.3888888888888888
+      },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 164,
+      "id": "308ea567-fd70-4d2c-aa2e-dd9aa146cba9",
+      "name": "电视柜抽屉.zip",
+      "type": "chest_of_drawers",
+      "url": "/CollovAssets/collov/living_room/chest_of_drawers/style/f8f6bf89-b9b1-4b3b-8b95-389a6eb81bbb/电视柜抽屉.glb",
+      "position": { "x": 5.521, "y": 5.588, "z": 0.125 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": {
+        "x": 1.9142857142857144,
+        "y": 0.9859154929577465,
+        "z": 1.3888888888888888
+      },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 165,
+      "id": "307fb5d9-50a0-4800-81d3-a5d62069d455",
+      "name": "电视柜抽屉.zip",
+      "type": "chest_of_drawers",
+      "url": "/CollovAssets/collov/living_room/chest_of_drawers/style/f8f6bf89-b9b1-4b3b-8b95-389a6eb81bbb/电视柜抽屉.glb",
+      "position": { "x": 4.1805, "y": 5.588, "z": 0.125 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": {
+        "x": 1.9157142857142857,
+        "y": 0.9859154929577465,
+        "z": 1.3888888888888888
+      },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 166,
+      "id": "cd1e9995-781c-4ed4-9280-7a70daa60755",
+      "name": "金牌茶几花系汉尼斯03岩板1.3m1.zip",
+      "type": "coffee_table",
+      "url": "/CollovAssets/金牌/living_room/coffee_table/style/0ca5ed70-6546-4cef-a408-66744b0877a3/金牌茶几花系-汉尼斯03岩板-1.3m1.glb",
+      "position": { "x": 4.8515, "y": 7.113, "z": 0.208 },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 167,
+      "id": "96702783-af93-446f-8580-155a43b859f0",
+      "name": "金牌沙发花系魅影01直排硅胶皮深栗棕2.7m.zip",
+      "type": "sofa",
+      "url": "/CollovAssets/金牌/living_room/sofa/style/82d0649e-b64f-4cd8-b9cc-7cd8f5e896c2/金牌沙发花系魅影01-直排硅胶皮-深栗棕-2.7m1.glb",
+      "position": { "x": 4.8515, "y": 8.283, "z": 0.4265 },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": { "x": 0.8560912771439088, "y": 0.8195121951219512, "z": 1 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 168,
+      "id": "d94f6659-3c9a-45de-9be3-afdb6ec9b41f",
+      "name": "金牌岩板餐桌花系魅影01雪山石亮光1.4m餐桌.zip",
+      "type": "dining_table",
+      "url": "/CollovAssets/collov/dining_room/dining_table/style/8ab817f9-22fc-4976-8180-30b8c1c3c7a7/金牌岩板餐桌花系魅影01-雪山石亮光-1.4m餐桌1.glb",
+      "position": { "x": 7.4915, "y": 7.008, "z": 0.3745 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 169,
+      "id": "39e10580-fa93-4507-a2bc-64c578add0b1",
+      "name": "Bancker Boho Fabric Cube Pouf by Christopher Knight Home.zip",
+      "type": "pouf",
+      "url": "/CollovAssets/collov/living_room/pouf/style/01e0f91c-8c2c-4aca-8565-99ae4b02893b/Bancker Boho Fabric Cube Pouf by Christopher Knight Home.glb",
+      "position": { "x": 6.124, "y": 7.113, "z": 0.2125 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 170,
+      "id": "8e43197a-c750-4b12-934a-a4ae43ff2042",
+      "name": "Brentwood Collection-8 X 10.zip",
+      "type": "carpet",
+      "url": "/CollovAssets/collov/living_room/carpet/style/3afd444f-74c4-4323-a269-a2ecd1905e55/Brentwood Collection-8 X 10.glb",
+      "position": { "x": 4.8515, "y": 7.324, "z": 0.0125 },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": { "x": 1.1004922067268252, "y": 0.6292650918635171, "z": 1 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 171,
+      "id": "3d82dbf5-72de-4546-b283-ed5ff0a5b5f5",
+      "name": "吊灯3.zip",
+      "type": "horizontal_chandelier",
+      "url": "/CollovAssets/1d15351d-3a0f-4933-8ff2-b1d4adea58df/吊灯3.glb",
+      "position": { "x": 7.492, "y": 7.0075, "z": 1.983 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 172,
+      "id": "03776f31-a926-42db-adb1-55948b7415b5",
+      "name": "吊灯2.zip",
+      "type": "horizontal_chandelier",
+      "url": "/CollovAssets/1746bd85-ce76-4187-bb2b-da489df61047/吊灯2.glb",
+      "position": { "x": 4.8515, "y": 7.234, "z": 2.0005 },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 173,
+      "id": "f4d45173-a520-477d-b59e-b308000ec8f0",
+      "name": "金牌餐椅花系魅影01浅栗棕1.zip",
+      "type": "dining_chair",
+      "url": "/CollovAssets/金牌/dining_room/dining_chair/style/04cceb19-4e2b-4276-9c82-ca41f3b90144/金牌餐椅花系魅影01-浅栗棕1.glb",
+      "position": { "x": 7.958666666666666, "y": 6.366, "z": 0.4125 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 174,
+      "id": "c552a17f-47fc-4ff2-bc26-1a36a0dd0351",
+      "name": "金牌餐椅花系魅影01浅栗棕1.zip",
+      "type": "dining_chair",
+      "url": "/CollovAssets/金牌/dining_room/dining_chair/style/04cceb19-4e2b-4276-9c82-ca41f3b90144/金牌餐椅花系魅影01-浅栗棕1.glb",
+      "position": { "x": 7.492, "y": 6.366, "z": 0.4125 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 175,
+      "id": "6dd54de8-c5cb-4f5d-9517-03e4e379192c",
+      "name": "金牌餐椅花系魅影01浅栗棕1.zip",
+      "type": "dining_chair",
+      "url": "/CollovAssets/金牌/dining_room/dining_chair/style/04cceb19-4e2b-4276-9c82-ca41f3b90144/金牌餐椅花系魅影01-浅栗棕1.glb",
+      "position": { "x": 7.025333333333334, "y": 6.366, "z": 0.4125 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 176,
+      "id": "7e405d60-7e44-430a-898d-03831fd234a0",
+      "name": "金牌餐椅花系魅影01浅栗棕1.zip",
+      "type": "dining_chair",
+      "url": "/CollovAssets/金牌/dining_room/dining_chair/style/04cceb19-4e2b-4276-9c82-ca41f3b90144/金牌餐椅花系魅影01-浅栗棕1.glb",
+      "position": { "x": 7.958666666666666, "y": 7.65, "z": 0.4125 },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 177,
+      "id": "eb8bac26-59c7-433c-921c-c0ee533c17ac",
+      "name": "金牌餐椅花系魅影01浅栗棕1.zip",
+      "type": "dining_chair",
+      "url": "/CollovAssets/金牌/dining_room/dining_chair/style/04cceb19-4e2b-4276-9c82-ca41f3b90144/金牌餐椅花系魅影01-浅栗棕1.glb",
+      "position": { "x": 7.492, "y": 7.65, "z": 0.4125 },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 178,
+      "id": "84a72e8a-3893-43d7-bd9c-9fe50df0f450",
+      "name": "金牌餐椅花系魅影01浅栗棕1.zip",
+      "type": "dining_chair",
+      "url": "/CollovAssets/金牌/dining_room/dining_chair/style/04cceb19-4e2b-4276-9c82-ca41f3b90144/金牌餐椅花系魅影01-浅栗棕1.glb",
+      "position": { "x": 7.025333333333334, "y": 7.65, "z": 0.4125 },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 179,
+      "id": "99a059a2-e8e4-46ba-94c5-dbcb61481607",
+      "name": "Natura Collection.zip",
+      "type": "carpet",
+      "url": "/CollovAssets/collov/dining_room/carpet/style/119f5569-fd2c-44a5-8a1e-a0cf4a3148ca/Natura Collection.glb",
+      "position": { "x": 7.492, "y": 7.008, "z": 0.002 },
+      "euler": { "x": 0, "y": 0, "z": 3.141592653589793, "order": "XYZ" },
+      "scale": { "x": 6.827309236947791, "y": 15.057471264367816, "z": 1 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 180,
+      "id": "64b7d3a1-2656-4360-8d87-79ed4c8fdbb7",
+      "name": "Sylvie Summer Lines Framed Canvas Set by Maggie Stephenson.zip",
+      "type": "wall_art",
+      "url": "/CollovAssets/collov/living_room/wall_art/style/61cfbb26-fb11-4b66-8da7-dad91fa42646/Sylvie Summer Lines Framed Canvas Set by Maggie Stephenson.glb",
+      "position": { "x": 4.852, "y": 8.6925, "z": 1.626 },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 181,
+      "id": "b9b5ddcf-499e-4b52-ba78-b7444c4d9a78",
+      "name": "Bordeaux Gallery Wall Wood Picture Frame Set2.zip",
+      "type": "wall_art",
+      "url": "/CollovAssets/collov/living_room/wall_art/style/e9e6882e-6035-49c5-b2c3-1e6bfb5cdbe4/Bordeaux Gallery Wall Wood Picture Frame Set2.glb",
+      "position": { "x": 9.8925, "y": 9.022, "z": 1.626 },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["07dbb914-8397-4faa-9919-4079389d3e62"],
+      "hostIds": []
+    },
+    {
+      "elementId": 182,
+      "id": "844548a9-d0ad-4ded-865a-21dcadca9090",
+      "name": "水槽柜.zip",
+      "type": "sink_cabinet",
+      "url": "/CollovAssets/collov/kitchen/sink_cabinet/style/31051ede-f3d8-44df-9440-ce2c8de37616/水槽柜.glb",
+      "position": { "x": 10.749, "y": 6.452, "z": 0.43 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 0.8333333333333334, "y": 0.9661016949152542, "z": 1 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": [],
+      "materialInfo": {
+        "color": "rgb(255,255,255)",
+        "texture": "https://ai-generate-data.s3.us-west-2.amazonaws.com/data/decor/tmp/586a9dba-e74c-4bc1-b5be-9e8977d54dd7/雪松绿.jpg"
+      }
+    },
+    {
+      "elementId": 183,
+      "id": "24c74eb3-be0f-4286-a918-73ba68b755fb",
+      "name": "木系140-木茵（JM-MY319）开门.zip",
+      "type": "door_panel",
+      "url": "/CollovAssets/collov/kitchen/door_panel/style/8e758912-9619-4d0f-baec-6eab4b7d6c5c/木系140-木茵（JM-MY319）开门.glb",
+      "position": { "x": 10.4535, "y": 6.6395, "z": 0.43 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 0.8165548098434005, "y": 1, "z": 0.9899569583931134 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": [],
+      "materialInfo": {
+        "color": "rgb(255,255,255)",
+        "texture": "https://ai-generate-data.s3.us-west-2.amazonaws.com/data/decor/tmp/586a9dba-e74c-4bc1-b5be-9e8977d54dd7/雪松绿.jpg"
+      }
+    },
+    {
+      "elementId": 184,
+      "id": "f06a1288-6e8f-412a-ab1b-bb02b556fecb",
+      "name": "木系140-木茵（JM-MY319）开门.zip",
+      "type": "door_panel",
+      "url": "/CollovAssets/collov/kitchen/door_panel/style/8e758912-9619-4d0f-baec-6eab4b7d6c5c/木系140-木茵（JM-MY319）开门.glb",
+      "position": { "x": 10.4535, "y": 6.2645, "z": 0.43 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": -0.8165548098434005, "y": 1, "z": 0.9899569583931134 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": [],
+      "materialInfo": {
+        "color": "rgb(255,255,255)",
+        "texture": "https://ai-generate-data.s3.us-west-2.amazonaws.com/data/decor/tmp/586a9dba-e74c-4bc1-b5be-9e8977d54dd7/雪松绿.jpg"
+      }
+    },
+    {
+      "elementId": 185,
+      "id": "2daea385-36eb-4c4a-b9ea-a6b847e471f3",
+      "name": "木系140-木茵（JM-MY319）开门.zip",
+      "type": "door_panel",
+      "url": "/CollovAssets/collov/kitchen/door_panel/style/8e758912-9619-4d0f-baec-6eab4b7d6c5c/木系140-木茵（JM-MY319）开门.glb",
+      "position": { "x": 10.4535, "y": 5.8895, "z": 0.43 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 0.8165548098434005, "y": 1, "z": 0.9899569583931134 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": [],
+      "materialInfo": {
+        "color": "rgb(255,255,255)",
+        "texture": "https://ai-generate-data.s3.us-west-2.amazonaws.com/data/decor/tmp/586a9dba-e74c-4bc1-b5be-9e8977d54dd7/雪松绿.jpg"
+      }
+    },
+    {
+      "elementId": 186,
+      "id": "5b0a73b2-4a9b-4fd4-ad70-b1e0b4d62fb8",
+      "name": "木系140-木茵（JM-MY319）开门.zip",
+      "type": "door_panel",
+      "url": "/CollovAssets/collov/kitchen/door_panel/style/8e758912-9619-4d0f-baec-6eab4b7d6c5c/木系140-木茵（JM-MY319）开门.glb",
+      "position": { "x": 10.4535, "y": 5.5145, "z": 0.43 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": -0.8165548098434005, "y": 1, "z": 0.9899569583931134 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": [],
+      "materialInfo": {
+        "color": "rgb(255,255,255)",
+        "texture": "https://ai-generate-data.s3.us-west-2.amazonaws.com/data/decor/tmp/586a9dba-e74c-4bc1-b5be-9e8977d54dd7/雪松绿.jpg"
+      }
+    },
+    {
+      "elementId": 187,
+      "id": "6b1be09c-cf53-4990-98d2-2bb803b51ee0",
+      "name": "木系140-木茵（JM-MY319）开门.zip",
+      "type": "door_panel",
+      "url": "/CollovAssets/collov/kitchen/door_panel/style/8e758912-9619-4d0f-baec-6eab4b7d6c5c/木系140-木茵（JM-MY319）开门.glb",
+      "position": { "x": 10.6935, "y": 6.6395, "z": 1.92 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 0.8165548098434005, "y": 1, "z": -1.1334289813486371 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": [],
+      "materialInfo": {
+        "color": "rgb(255,255,255)",
+        "texture": "https://ai-generate-data.s3.us-west-2.amazonaws.com/data/decor/tmp/586a9dba-e74c-4bc1-b5be-9e8977d54dd7/雪松绿.jpg"
+      }
+    },
+    {
+      "elementId": 188,
+      "id": "ffd8692d-c148-4441-96f4-90a2205344a5",
+      "name": "木系140-木茵（JM-MY319）开门.zip",
+      "type": "door_panel",
+      "url": "/CollovAssets/collov/kitchen/door_panel/style/8e758912-9619-4d0f-baec-6eab4b7d6c5c/木系140-木茵（JM-MY319）开门.glb",
+      "position": { "x": 10.6935, "y": 6.2645, "z": 1.92 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": -0.8165548098434005, "y": 1, "z": -1.1334289813486371 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": [],
+      "materialInfo": {
+        "color": "rgb(255,255,255)",
+        "texture": "https://ai-generate-data.s3.us-west-2.amazonaws.com/data/decor/tmp/586a9dba-e74c-4bc1-b5be-9e8977d54dd7/雪松绿.jpg"
+      }
+    },
+    {
+      "elementId": 189,
+      "id": "8d5235a6-ae34-4437-a80c-b7292126caaa",
+      "name": "木系140-木茵（JM-MY319）开门.zip",
+      "type": "door_panel",
+      "url": "/CollovAssets/collov/kitchen/door_panel/style/8e758912-9619-4d0f-baec-6eab4b7d6c5c/木系140-木茵（JM-MY319）开门.glb",
+      "position": { "x": 10.6935, "y": 5.8895, "z": 1.9595 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 0.8165548098434005, "y": 1, "z": -1.0200860832137733 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": [],
+      "materialInfo": {
+        "color": "rgb(255,255,255)",
+        "texture": "https://ai-generate-data.s3.us-west-2.amazonaws.com/data/decor/tmp/586a9dba-e74c-4bc1-b5be-9e8977d54dd7/雪松绿.jpg"
+      }
+    },
+    {
+      "elementId": 190,
+      "id": "777a7a99-c252-4f05-bdb8-6d9602af2a63",
+      "name": "木系140-木茵（JM-MY319）开门.zip",
+      "type": "door_panel",
+      "url": "/CollovAssets/collov/kitchen/door_panel/style/8e758912-9619-4d0f-baec-6eab4b7d6c5c/木系140-木茵（JM-MY319）开门.glb",
+      "position": { "x": 10.6935, "y": 5.5145, "z": 1.9595 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": -0.8165548098434005, "y": 1, "z": -1.0200860832137733 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": [],
+      "materialInfo": {
+        "color": "rgb(255,255,255)",
+        "texture": "https://ai-generate-data.s3.us-west-2.amazonaws.com/data/decor/tmp/586a9dba-e74c-4bc1-b5be-9e8977d54dd7/雪松绿.jpg"
+      }
+    },
+    {
+      "elementId": 191,
+      "id": "e3e01498-58b3-446e-a876-74a2c4c6cb34",
+      "name": "A8108-16.zip",
+      "type": "haft",
+      "url": "/CollovAssets/collov/kitchen/haft/style/2762c038-709a-4ecf-9f31-5e193abc513e/A8108-16.glb",
+      "position": { "x": 10.432, "y": 6.6395, "z": 0.725 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": []
+    },
+    {
+      "elementId": 192,
+      "id": "569691b2-95ba-408b-84e6-6e5cc260661a",
+      "name": "A8108-16.zip",
+      "type": "haft",
+      "url": "/CollovAssets/collov/kitchen/haft/style/2762c038-709a-4ecf-9f31-5e193abc513e/A8108-16.glb",
+      "position": { "x": 10.432, "y": 6.2645, "z": 0.725 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": -1, "y": 1, "z": 1 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": []
+    },
+    {
+      "elementId": 193,
+      "id": "61f61af3-8e74-4d2f-96fe-afa84d635af6",
+      "name": "A8108-16.zip",
+      "type": "haft",
+      "url": "/CollovAssets/collov/kitchen/haft/style/2762c038-709a-4ecf-9f31-5e193abc513e/A8108-16.glb",
+      "position": { "x": 10.432, "y": 5.8895, "z": 0.725 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": []
+    },
+    {
+      "elementId": 194,
+      "id": "1e2ed676-d64b-4da3-95b3-4c3780874cda",
+      "name": "A8108-16.zip",
+      "type": "haft",
+      "url": "/CollovAssets/collov/kitchen/haft/style/2762c038-709a-4ecf-9f31-5e193abc513e/A8108-16.glb",
+      "position": { "x": 10.432, "y": 5.5145, "z": 0.725 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": -1, "y": 1, "z": 1 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": []
+    },
+    {
+      "elementId": 195,
+      "id": "82488c28-716c-4e83-ba7d-602d575420fd",
+      "name": "A8108-16.zip",
+      "type": "haft",
+      "url": "/CollovAssets/collov/kitchen/haft/style/2762c038-709a-4ecf-9f31-5e193abc513e/A8108-16.glb",
+      "position": { "x": 10.672, "y": 6.6395, "z": 1.575 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": -1 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": []
+    },
+    {
+      "elementId": 196,
+      "id": "a4028f1c-57d5-4725-9c36-84e0cc83a6fb",
+      "name": "A8108-16.zip",
+      "type": "haft",
+      "url": "/CollovAssets/collov/kitchen/haft/style/2762c038-709a-4ecf-9f31-5e193abc513e/A8108-16.glb",
+      "position": { "x": 10.672, "y": 6.2645, "z": 1.575 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": -1, "y": 1, "z": -1 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": []
+    },
+    {
+      "elementId": 197,
+      "id": "2f859a55-a223-4406-9147-2eec38984dc9",
+      "name": "A8108-16.zip",
+      "type": "haft",
+      "url": "/CollovAssets/collov/kitchen/haft/style/2762c038-709a-4ecf-9f31-5e193abc513e/A8108-16.glb",
+      "position": { "x": 10.672, "y": 5.8895, "z": 1.654 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": -1 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": []
+    },
+    {
+      "elementId": 198,
+      "id": "406b6579-a0ce-413c-9ac2-486ebfbf19d7",
+      "name": "A8108-16.zip",
+      "type": "haft",
+      "url": "/CollovAssets/collov/kitchen/haft/style/2762c038-709a-4ecf-9f31-5e193abc513e/A8108-16.glb",
+      "position": { "x": 10.672, "y": 5.5145, "z": 1.654 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": -1, "y": 1, "z": -1 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": []
+    },
+    {
+      "elementId": 199,
+      "id": "b025d989-5dcb-48c4-a07e-1cab40a1a0a4",
+      "name": "对开门吊柜.zip",
+      "type": "wall_cupboard",
+      "url": "/CollovAssets/collov/kitchen/wall_cupboard/style/27c80d15-4394-4413-98d6-c017a2ea68bf/对开门吊柜.glb",
+      "position": { "x": 10.869, "y": 6.452, "z": 1.92 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 1.0714285714285714, "y": 1, "z": 1 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": [],
+      "materialInfo": {
+        "color": "rgb(255,255,255)",
+        "texture": "https://ai-generate-data.s3.us-west-2.amazonaws.com/data/decor/tmp/586a9dba-e74c-4bc1-b5be-9e8977d54dd7/雪松绿.jpg"
+      }
+    },
+    {
+      "elementId": 200,
+      "id": "a84ce2de-3e5d-49ac-89bb-721b4838b8da",
+      "name": "灶具柜.zip",
+      "type": "cooktop",
+      "url": "/CollovAssets/collov/kitchen/cooktop/style/a7c8722e-f23d-4231-b210-70d4849f1658/灶具柜.glb",
+      "position": { "x": 10.749, "y": 5.702, "z": 0.43 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 0.8333333333333334, "y": 0.9661016949152542, "z": 1 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": [],
+      "materialInfo": {
+        "color": "rgb(255,255,255)",
+        "texture": "https://ai-generate-data.s3.us-west-2.amazonaws.com/data/decor/tmp/586a9dba-e74c-4bc1-b5be-9e8977d54dd7/雪松绿.jpg"
+      }
+    },
+    {
+      "elementId": 201,
+      "id": "3f4200dc-4a99-4d66-b2d7-80fae2218643",
+      "name": "平吸烟机柜不含烟机.zip",
+      "type": "electrical_cabinet",
+      "url": "/CollovAssets/金牌/kitchen/electrical_cabinet/style/2dde6983-df9e-49fa-b004-cae7d361228c/平吸烟机柜不含烟机.glb",
+      "position": { "x": 10.869, "y": 5.702, "z": 1.92 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 0.9375, "y": 1, "z": 1 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": [],
+      "materialInfo": {
+        "color": "rgb(255,255,255)",
+        "texture": "https://ai-generate-data.s3.us-west-2.amazonaws.com/data/decor/tmp/586a9dba-e74c-4bc1-b5be-9e8977d54dd7/雪松绿.jpg"
+      }
+    },
+    {
+      "elementId": 202,
+      "id": "fc9979e3-3fe9-407f-80fa-ba4d7017879f",
+      "name": "水槽1.zip",
+      "type": "sink",
+      "url": "/CollovAssets/金牌/kitchen/sink/style/3d343168-1f9e-432f-8388-00d21d86ff54/水槽1.glb",
+      "position": { "x": 10.719, "y": 6.452, "z": 0.8505 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 0.8397932816537468, "y": 1.0495049504950495, "z": 1 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": []
+    },
+    {
+      "elementId": 203,
+      "id": "c2e0d3ff-c533-4d1a-9b11-e5b4025be6b4",
+      "name": "灶台.zip",
+      "type": "stove",
+      "url": "/CollovAssets/金牌/kitchen/stove/style/c4d53386-461c-40da-8a0c-51ca60faa336/灶台.glb",
+      "position": { "x": 10.719, "y": 5.702, "z": 0.8465 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 0.885558583106267, "y": 1.311881188118812, "z": 1 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": []
+    },
+    {
+      "elementId": 204,
+      "id": "abac088a-9877-40ee-be40-d99da34f7eed",
+      "name": "T930烟机模型.zip",
+      "type": "kitchen_hood",
+      "url": "/CollovAssets/6c29278b-3801-4bc6-82fa-42db9abc330d/T930烟机模型.glb",
+      "position": { "x": 10.8575, "y": 5.702, "z": 1.599 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 0.8379888268156425, "y": 1, "z": 1 },
+      "roomIds": ["59b23f7e-265d-426e-92ec-6dfd7dbfd884"],
+      "hostIds": []
+    },
+    {
+      "elementId": 205,
+      "id": "4e0f1771-d863-4ca7-8cb0-1e63eabf9638",
+      "name": "地柜单柜.zip",
+      "type": "floor_cabinet",
+      "url": "/CollovAssets/collov/kitchen/floor_cabinet/style/c16f390d-b7f0-4e9e-aa92-e92cdbd3de1c/地柜单柜.glb",
+      "position": { "x": 3.132, "y": 8.388, "z": 0.37 },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": { "x": 1.2355555555555555, "y": 1, "z": 1 },
+      "roomIds": ["cb0d2a70-68a1-4e6e-af4d-1952e019b8e9"],
+      "hostIds": []
+    },
+    {
+      "elementId": 206,
+      "id": "b851e007-9b04-4fe7-a368-2fd0f02e6eca",
+      "name": "马桶.zip",
+      "type": "toilet",
+      "url": "/CollovAssets/collov/bathroom/toilet/style/ce13398a-e21b-425d-8326-01cb2e39a5a3/马桶.glb",
+      "position": { "x": 7.643, "y": 11.429, "z": 0.393 },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": { "x": 0.9030837004405287, "y": 1, "z": 1 },
+      "roomIds": ["66d10486-dd20-4cf4-9a4f-f2f4e19e662e"],
+      "hostIds": []
+    },
+    {
+      "elementId": 207,
+      "id": "64ca8aaf-c948-4586-a58a-90e3192c0b1c",
+      "name": "衣柜单.zip",
+      "type": "wardrobe",
+      "url": "/CollovAssets/collov/bedroom/wardrobe/style/01d2020d-28a0-4d50-8151-d2e67ac85c23/衣柜单.glb",
+      "position": { "x": 6.843, "y": 11.5735, "z": 1.355 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 1.18, "y": 1.1346153846153846, "z": 1.2117117117117118 },
+      "roomIds": ["044d4e0d-7360-4a9e-9227-8ababb6d9e49"],
+      "hostIds": []
+    },
+    {
+      "elementId": 208,
+      "id": "1566c603-dda6-4892-a580-ed9ac6d52936",
+      "name": "床尾凳",
+      "type": "bed_foot_bench",
+      "url": "/CollovAssets/3d097d18-5f66-46fe-b2ec-9d9822ddbffb/床尾凳.glb",
+      "position": { "x": 5.84, "y": 10.921, "z": 0.211 },
+      "euler": { "x": 0, "y": 0, "z": 1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["044d4e0d-7360-4a9e-9227-8ababb6d9e49"],
+      "hostIds": []
+    },
+    {
+      "elementId": 209,
+      "id": "6318e77e-cfd3-4358-970f-0f94c4b4e76b",
+      "name": "洗衣机2.zip",
+      "type": "washing_machine",
+      "url": "/CollovAssets/cfd436bf-4d10-4f45-8e74-7c2fb1fcc3a5/洗衣机2.glb",
+      "position": { "x": 2.298, "y": 8.388, "z": 0.37 },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": {
+        "x": 1.7160493827160495,
+        "y": 1.0144927536231885,
+        "z": 0.9390862944162437
+      },
+      "roomIds": ["cb0d2a70-68a1-4e6e-af4d-1952e019b8e9"],
+      "hostIds": []
+    },
+    {
+      "elementId": 210,
+      "id": "6b36bbdf-e75e-49d4-a0f7-70e430c928dd",
+      "name": "吊柜单.zip",
+      "type": "wall_cupboard",
+      "url": "/CollovAssets/collov/kitchen/wall_cupboard/style/0bfe1eba-ed63-4a1c-866f-0efc845cf1a7/吊柜单.glb",
+      "position": { "x": 1.9505, "y": 8.528, "z": 2.3 },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": { "x": 1.0425, "y": 1, "z": 1 },
+      "roomIds": ["cb0d2a70-68a1-4e6e-af4d-1952e019b8e9"],
+      "hostIds": []
+    },
+    {
+      "elementId": 211,
+      "id": "00c17fba-c088-4734-97d6-406aa4f10c89",
+      "name": "吊柜单.zip",
+      "type": "wall_cupboard",
+      "url": "/CollovAssets/collov/kitchen/wall_cupboard/style/0bfe1eba-ed63-4a1c-866f-0efc845cf1a7/吊柜单.glb",
+      "position": { "x": 2.3675, "y": 8.528, "z": 2.3 },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": { "x": 1.0425, "y": 1, "z": 1 },
+      "roomIds": ["cb0d2a70-68a1-4e6e-af4d-1952e019b8e9"],
+      "hostIds": []
+    },
+    {
+      "elementId": 212,
+      "id": "04dfdd86-9a9b-400b-b5b1-2bac194dd86a",
+      "name": "吊柜单.zip",
+      "type": "wall_cupboard",
+      "url": "/CollovAssets/collov/kitchen/wall_cupboard/style/0bfe1eba-ed63-4a1c-866f-0efc845cf1a7/吊柜单.glb",
+      "position": { "x": 2.7845, "y": 8.528, "z": 2.3 },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": { "x": 1.0425, "y": 1, "z": 1 },
+      "roomIds": ["cb0d2a70-68a1-4e6e-af4d-1952e019b8e9"],
+      "hostIds": []
+    },
+    {
+      "elementId": 213,
+      "id": "bb5c2515-7a2b-4a67-8c58-446c64f43805",
+      "name": "吊柜单.zip",
+      "type": "wall_cupboard",
+      "url": "/CollovAssets/collov/kitchen/wall_cupboard/style/0bfe1eba-ed63-4a1c-866f-0efc845cf1a7/吊柜单.glb",
+      "position": { "x": 3.2015, "y": 8.528, "z": 2.3 },
+      "euler": { "x": 0, "y": 0, "z": 0, "order": "XYZ" },
+      "scale": { "x": 1.0425, "y": 1, "z": 1 },
+      "roomIds": ["cb0d2a70-68a1-4e6e-af4d-1952e019b8e9"],
+      "hostIds": []
+    },
+    {
+      "elementId": 214,
+      "id": "ef512289-c3ff-4ed8-b6fd-16062cc860e9",
+      "name": "Tisbury Pressure Balanced.zip",
+      "type": "shower",
+      "url": "/CollovAssets/collov/bathroom/shower/style/d92c8ac4-be92-4942-979b-634da1471b53/Tisbury Pressure Balanced.glb",
+      "position": { "x": 8.28, "y": 11.3845, "z": 1.344 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["66d10486-dd20-4cf4-9a4f-f2f4e19e662e"],
+      "hostIds": []
+    },
+    {
+      "elementId": 215,
+      "id": "86d32b81-1857-47fe-881c-38a353476c8d",
+      "name": "0.75 Wide Wood Grain Picture Frame.zip",
+      "type": "bathroom_mirror",
+      "url": "/CollovAssets/collov/bathroom/bathroom_mirror/style/d590de8a-6c6c-4f84-bccd-c1d46d0dd3ed/0.75 Wide Wood Grain Picture Frame.glb",
+      "position": { "x": 8.7395, "y": 10.618, "z": 1.6755 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "roomIds": ["66d10486-dd20-4cf4-9a4f-f2f4e19e662e"],
+      "hostIds": []
+    },
+    {
+      "elementId": 216,
+      "id": "de86ce30-0804-41ba-a719-670905c492ab",
+      "name": "Kinley 24-40 Single Sink Vanity.zip",
+      "type": "bathroom_cabinet",
+      "url": "/CollovAssets/collov/bathroom/bathroom_cabinet/style/937a9217-cbc4-4db7-9074-560a964209e8/Kinley 24-40 Single Sink Vanity.glb",
+      "position": { "x": 8.495, "y": 10.618, "z": 0.5235 },
+      "euler": { "x": 0, "y": 0, "z": -1.5707963267948966, "order": "XYZ" },
+      "scale": { "x": 0.8650065530799476, "y": 1, "z": 1 },
+      "roomIds": ["66d10486-dd20-4cf4-9a4f-f2f4e19e662e"],
+      "hostIds": []
+    }
+  ],
+  "shapes": [
+    {
+      "shapeType": "countertop",
+      "shapeId": "a8bb886a-c2a1-4ded-914b-fe7c921f24a1",
+      "shape": {
+        "poly": [
+          [11.034, 6.839],
+          [11.034, 5.314],
+          [10.404, 5.314],
+          [10.404, 6.839],
+          [11.034, 6.839]
+        ],
+        "bottomDis": 0.78,
+        "holes": [
+          [
+            [10.964, 6.757],
+            [10.964, 6.147],
+            [10.474, 6.147],
+            [10.474, 6.757],
+            [10.964, 6.757]
+          ],
+          [
+            [10.964, 6.007],
+            [10.964, 5.397],
+            [10.474, 5.397],
+            [10.474, 6.007],
+            [10.964, 6.007]
+          ]
+        ],
+        "height": 0.04
+      },
+      "shapeName": "countertop"
+    }
+  ]
+}

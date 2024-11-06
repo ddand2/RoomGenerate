@@ -26,11 +26,13 @@ struct FRDMBaseInfo
 	float Bottom;
 	UPROPERTY()
 	float Thickness;
+
+	FRDMBaseInfo():id(FString()),type(FString()),Start(FVector::ZeroVector),End(FVector::ZeroVector),Height(0.f),Bottom(0.f),Thickness(0.f){}
 };
 
 class UDynamicMeshComponent;
 
-using UE::Geometry::FDynamicMesh3;
+using FDynamicMesh3 = UE::Geometry::FDynamicMesh3;
 
 UCLASS()
 class ARoomDynamicMeshBaseActor : public AActor
@@ -45,9 +47,9 @@ public:
 
 	void InitializeMesh(const TArray<FVector2D>& Outline,float Height,const FString& MaterialPath);
 
+	void CreateMeshWithHole(const FRDMBaseInfo& WallInfo, const TArray<FRDMBaseInfo>& HoleInfos);
+
 private:
-	void CreateMeshWithHole(UDynamicMeshComponent* DynamicMeshComponent, const FRDMBaseInfo& WallInfo, const TArray<FRDMBaseInfo>& HoleInfos);
-	
 	// Height,Thickness must be in [cm]
 	FDynamicMesh3 CreateMesh(const FVector& Start,const FVector& End,float Height, float Thickness);
 

@@ -42,7 +42,8 @@ public class RoomForge : ModuleRules
 				"Json",
 				"JsonUtilities",
 				"PakFile",
-				"GeometryFramework"
+				"GeometryFramework",
+				"GeometryCore"
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);

@@ -20,7 +20,7 @@ void ARoomDynamicMeshBaseActor::InitializeMesh(const TArray<FVector2D>& Outline,
 	
 }
 
-void ARoomDynamicMeshBaseActor::CreateMeshWithHole(UDynamicMeshComponent* DynamicMeshComponent, const FRDMBaseInfo& WallInfo, const TArray<FRDMBaseInfo>& HoleInfos)
+void ARoomDynamicMeshBaseActor::CreateMeshWithHole(const FRDMBaseInfo& WallInfo, const TArray<FRDMBaseInfo>& HoleInfos)
 {
 	if(!DynamicMeshComponent) return;
 
@@ -39,6 +39,8 @@ void ARoomDynamicMeshBaseActor::CreateMeshWithHole(UDynamicMeshComponent* Dynami
 
 		UE::Geometry::FMeshBoolean MeshBoolean(&WallMesh,&HolMesh,&WallMesh,UE::Geometry::FMeshBoolean::EBooleanOp::Difference);
 		MeshBoolean.Compute();
+
+		HolMesh.Clear();
 	}
 
 	DynamicMeshComponent->GetDynamicMesh()->GetMeshRef() = WallMesh;
@@ -51,7 +53,7 @@ void ARoomDynamicMeshBaseActor::CreateMeshWithHole(UDynamicMeshComponent* Dynami
 // TODO 确认start->end是中轴线还是靠右或靠左，目前按靠右挤出
 FDynamicMesh3 ARoomDynamicMeshBaseActor::CreateMesh(const FVector& Start, const FVector& End, float Height, float Thickness)
 {
-	UE::Geometry::FDynamicMesh3 NewMesh;
+	FDynamicMesh3 NewMesh;
 
 	FVector WallDirection = (End - Start).GetSafeNormal();
 	FVector UpVector = FVector::UpVector;

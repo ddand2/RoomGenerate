@@ -4,8 +4,10 @@
 
 #include "CoreMinimal.h"
 #include "Subsystems/GameInstanceSubsystem.h"
+#include "nlohmann/json.hpp"
 #include "RoomForgeSubsystem.generated.h"
 
+using json = nlohmann::json;
 /**
  * 
  */
@@ -15,6 +17,9 @@ class ROOMFORGE_API URoomForgeSubsystem : public UGameInstanceSubsystem
 	GENERATED_BODY()
 
 public:
-	void BuildSceneFromJson(const FString& JsonPath,UWorld* World);
-	
+	UFUNCTION(BlueprintCallable)
+	void BuildSceneFromJson(const FString& JsonPath,UWorld* World, const FString& MaterialPath);
+
+private:
+	json LoadJson(const FString& JsonPath);
 };
